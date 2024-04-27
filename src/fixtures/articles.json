@@ -1,0 +1,752 @@
+{
+  "queryId": "7be0ce25-75d7-4ab9-b1ef-1f967ac276ea",
+  "totalHits": 1280,
+  "totalRelation": "EQUAL_TO",
+  "hits": [
+    {
+      "highlight": {
+        "abstract": [
+          " sight loss by identifying <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> at a stage when it can be treated. <span class=\"highlight\">Artificial</span>",
+          " and specificity of the <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> system for detecting <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> were determined",
+          " versus any <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>, the sensitivity of the <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> grading system"
+        ],
+        "title": [
+          "Performance of an <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> automated system for <span class=\"highlight\">diabetic</span> eye <span class=\"highlight\">screening</span> in a large English population."
+        ]
+      },
+      "score": 52.82829,
+      "source": {
+        "record_lens_id_num": 4797437136392,
+        "record_lens_id": "047-974-371-363-929",
+        "lens_id_num": [4797437136392, 7850311961744, 18033342736736],
+        "lens_id": ["047-974-371-363-929", "078-503-119-617-441", "180-333-427-367-366"],
+        "ids": {
+          "doi": ["10.1111/dme.15055"],
+          "pmid": [36719266],
+          "openalex": ["W4318619953"]
+        },
+        "volume": "40",
+        "issue": "6",
+        "is_retracted": false,
+        "year_published": 2023,
+        "date_published": "2023-03-02",
+        "title": "Performance of an artificial intelligence automated system for diabetic eye screening in a large English population.",
+        "author": [
+          {
+            "display_name": "Sarah Meredith",
+            "orcid": "0000-0003-3563-468x"
+          },
+          {
+            "display_name": "Mark van Grinsven"
+          },
+          {
+            "display_name": "Jonne Engelberts"
+          },
+          {
+            "display_name": "Dominic Clarke"
+          },
+          {
+            "display_name": "Vicki Prior"
+          },
+          {
+            "display_name": "Jo Vodrey"
+          },
+          {
+            "display_name": "Alison Hammond"
+          },
+          {
+            "display_name": "Raja Muhammed"
+          },
+          {
+            "display_name": "Philip Kirby"
+          }
+        ],
+        "reference_count": 11,
+        "referenced_by_count": 1,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Diabetic medicine : a journal of the British Diabetic Association"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": true,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": false,
+        "has_orcid": true,
+        "has_mesh_term": true,
+        "has_abstract": true,
+        "has_full_text": false,
+        "has_keyword": true,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": false
+      },
+      "metadataStat": {
+        "collectionsCount": 1,
+        "publicCollectionsCount": 1,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "abstract": [
+          " sustainability and coverage of <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> programs. They enable risk stratifying",
+          " growth factor therapy. Summary Progress in <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> and tele-ophthalmology for <span class=\"highlight\">diabetic</span>",
+          " <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>, including <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> applications in 'real-world settings"
+        ],
+        "title": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">intelligence</span> for <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>, prediction and management."
+        ]
+      },
+      "score": 49.62708,
+      "source": {
+        "record_lens_id_num": 8814096634880,
+        "record_lens_id": "088-140-966-348-804",
+        "lens_id_num": [9464935095151, 8814096634880, 11028679908706],
+        "lens_id": ["094-649-350-951-516", "088-140-966-348-804", "110-286-799-087-068"],
+        "ids": {
+          "doi": ["10.1097/icu.0000000000000693"],
+          "pmid": [32740069],
+          "magid": ["3046254018"]
+        },
+        "volume": "31",
+        "issue": "5",
+        "start_page": 357,
+        "end_page": 365,
+        "is_retracted": false,
+        "year_published": 2020,
+        "date_published": "2020-07-28",
+        "title": "Artificial intelligence for diabetic retinopathy screening, prediction and management.",
+        "author": [
+          {
+            "display_name": "Dinesh Visva Gunasekeran",
+            "orcid": "0000-0002-8502-2334"
+          },
+          {
+            "display_name": "Daniel S W Ting"
+          },
+          {
+            "display_name": "Gavin Tan"
+          },
+          {
+            "display_name": "Tien Yin Wong",
+            "orcid": "0000-0002-8448-1264"
+          }
+        ],
+        "reference_count": 69,
+        "referenced_by_count": 73,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Current opinion in ophthalmology"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": true,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": true,
+        "has_orcid": true,
+        "has_mesh_term": true,
+        "has_abstract": true,
+        "has_full_text": false,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": false
+      },
+      "metadataStat": {
+        "collectionsCount": 3,
+        "publicCollectionsCount": 3,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "abstract": [
+          "The article is about <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>. It touches on <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> image, new technologies and the current status of the disease."
+        ],
+        "title": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">Intelligence</span> in <span class=\"highlight\">Screening</span> for <span class=\"highlight\">Diabetic</span> <span class=\"highlight\">Retinopathy</span>"
+        ]
+      },
+      "score": 48.618942,
+      "source": {
+        "record_lens_id_num": 12559340665273,
+        "record_lens_id": "125-593-406-652-738",
+        "lens_id_num": [14612811560218, 12559340665273],
+        "lens_id": ["146-128-115-602-181", "125-593-406-652-738"],
+        "ids": {
+          "doi": ["10.1142/s0219030302000265"],
+          "magid": ["1974195053"]
+        },
+        "volume": "06",
+        "issue": "03",
+        "start_page": 75,
+        "end_page": 76,
+        "is_retracted": false,
+        "year_published": 2002,
+        "date_published": "2002-02-04",
+        "title": "Artificial Intelligence in Screening for Diabetic Retinopathy",
+        "author": [
+          {
+            "display_name": "David Keating"
+          },
+          {
+            "display_name": "S Parks"
+          },
+          {
+            "display_name": "J McDonagh"
+          },
+          {
+            "display_name": "A L Evans"
+          }
+        ],
+        "reference_count": 1,
+        "referenced_by_count": 0,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Asia-Pacific Biotech News"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": false,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": true,
+        "has_orcid": false,
+        "has_mesh_term": false,
+        "has_abstract": true,
+        "has_full_text": false,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "fulltext": [
+          " for <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> is <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> (AI) used together with telemedicine",
+          " and programs used in <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> adopted in different parts of the world [ CR11 11. 11",
+          ", <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> in <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>, smartphone <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> testing"
+        ],
+        "abstract": [
+          ": telemedicine in <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>, <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>, automated <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>",
+          " <span class=\"highlight\">screening</span>, <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> in <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>, smartphone <span class=\"highlight\">diabetic</span>",
+          " <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> methods. We have found that fundus cameras, stable or mobile, are most"
+        ],
+        "title": [
+          "The Role of Telemedicine, In-Home Testing and <span class=\"highlight\">Artificial</span> <span class=\"highlight\">Intelligence</span> to Alleviate an Increasingly Burdened Healthcare System: <span class=\"highlight\">Diabetic</span> <span class=\"highlight\">Retinopathy</span>"
+        ]
+      },
+      "score": 47.707977,
+      "source": {
+        "record_lens_id_num": 2031580035482,
+        "record_lens_id": "020-315-800-354-82X",
+        "lens_id_num": [10367568712887, 2031580035482, 13849338048423],
+        "lens_id": ["103-675-687-128-879", "020-315-800-354-82X", "138-493-380-484-230"],
+        "ids": {
+          "doi": ["10.1007/s40123-021-00353-2"],
+          "pmid": [34156632],
+          "pmcid": ["PMC8217784"],
+          "magid": ["3174594608"]
+        },
+        "volume": "10",
+        "issue": "3",
+        "start_page": 445,
+        "end_page": 464,
+        "is_retracted": false,
+        "year_published": 2021,
+        "date_published": "2021-06-22",
+        "title": "The Role of Telemedicine, In-Home Testing and Artificial Intelligence to Alleviate an Increasingly Burdened Healthcare System: Diabetic Retinopathy",
+        "author": [
+          {
+            "display_name": "Janusz Pieczynski",
+            "orcid": "0000-0003-2742-8333"
+          },
+          {
+            "display_name": "Patrycja Kuklo"
+          },
+          {
+            "display_name": "Andrzej Grzybowski"
+          }
+        ],
+        "reference_count": 127,
+        "referenced_by_count": 19,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Ophthalmology and therapy"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": true,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": true,
+        "has_orcid": true,
+        "has_mesh_term": false,
+        "has_abstract": true,
+        "has_full_text": true,
+        "has_keyword": true,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": true
+      },
+      "metadataStat": {
+        "collectionsCount": 5,
+        "publicCollectionsCount": 5,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "fulltext": [
+          " of <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span> (AI) in ophthalmology [ CR1 1. 1 – CR4 4. 4 ], and in particular <span class=\"highlight\">diabetic</span>",
+          " <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>. John McCarthy (a computer scientist of renown) first used the phrase AI in 1956",
+          " to <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> [ CR7 7. 7 ] with sensitivities and specificities, which have now been"
+        ],
+        "title": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">intelligence</span> in <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>."
+        ]
+      },
+      "score": 47.517887,
+      "source": {
+        "record_lens_id_num": 5263949047662,
+        "record_lens_id": "052-639-490-476-62X",
+        "lens_id_num": [14396885957019, 5263949047662, 18491706724103],
+        "lens_id": ["143-968-859-570-197", "052-639-490-476-62X", "184-917-067-241-034"],
+        "ids": {
+          "doi": ["10.1038/s41433-020-0855-7"],
+          "pmid": [32291403],
+          "pmcid": ["PMC8027841"],
+          "magid": ["3015801002"]
+        },
+        "volume": "35",
+        "issue": "2",
+        "start_page": 684,
+        "end_page": 684,
+        "is_retracted": false,
+        "year_published": 2020,
+        "date_published": "2020-04-14",
+        "title": "Artificial intelligence in diabetic retinopathy.",
+        "author": [
+          {
+            "display_name": "Tom H Williamson"
+          }
+        ],
+        "reference_count": 9,
+        "referenced_by_count": 4,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Eye (London, England)"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": true,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": true,
+        "has_orcid": false,
+        "has_mesh_term": true,
+        "has_abstract": false,
+        "has_full_text": true,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": true
+      },
+      "metadataStat": {
+        "collectionsCount": 1,
+        "publicCollectionsCount": 1,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "fulltext": [
+          " <span class=\"highlight\">retinopathy</span> (PDR or DME), while regular and continuous <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> is needed for those",
+          " and most other developing countries, these criteria are met for <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span>",
+          " ]; and (6) <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> and treatment is a highly cost-effective health investment"
+        ],
+        "abstract": [
+          "<span class=\"highlight\">Diabetic</span> <span class=\"highlight\">retinopathy</span> is a frequent complication in diabetes and a leading cause of visual",
+          " impairment. Regular eye <span class=\"highlight\">screening</span> is imperative to detect sight-threatening stages of <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>",
+          " such as proliferative <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> and <span class=\"highlight\">diabetic</span> macular oedema in order to treat these before"
+        ],
+        "title": [
+          "<span class=\"highlight\">Diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> in the emerging era of <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span>."
+        ]
+      },
+      "score": 47.228683,
+      "source": {
+        "record_lens_id_num": 15418939233794,
+        "record_lens_id": "154-189-392-337-944",
+        "lens_id_num": [14614865246667, 15418939233794, 6256792714835],
+        "lens_id": ["146-148-652-466-670", "154-189-392-337-944", "062-567-927-148-358"],
+        "ids": {
+          "doi": ["10.1007/s00125-022-05727-0"],
+          "pmid": [35639120],
+          "openalex": ["W4281714153"]
+        },
+        "volume": "65",
+        "issue": "9",
+        "start_page": 1415,
+        "end_page": 1423,
+        "is_retracted": false,
+        "year_published": 2022,
+        "date_published": "2022-05-31",
+        "title": "Diabetic retinopathy screening in the emerging era of artificial intelligence.",
+        "author": [
+          {
+            "display_name": "Jakob Grauslund",
+            "orcid": "0000-0001-5019-0736"
+          }
+        ],
+        "reference_count": 61,
+        "referenced_by_count": 36,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Diabetologia"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": true,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": false,
+        "has_orcid": true,
+        "has_mesh_term": true,
+        "has_abstract": true,
+        "has_full_text": true,
+        "has_keyword": true,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": true
+      },
+      "metadataStat": {
+        "collectionsCount": 3,
+        "publicCollectionsCount": 3,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "abstract": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">Intelligence</span> (AI) has had a major influence on the medical sector. It has the potential",
+          " Occlusion, Cataract, Age-related Macular Degeneration (AMD), <span class=\"highlight\">Retinopathy</span> of Prematurity, <span class=\"highlight\">Diabetic</span>",
+          " <span class=\"highlight\">Retinopathy</span> (DR), and Glaucoma. <span class=\"highlight\">Diabetic</span> <span class=\"highlight\">Retinopathy</span> is becoming more common among these. It can result"
+        ],
+        "title": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">Intelligence</span> in Healthcare: <span class=\"highlight\">Diabetic</span> <span class=\"highlight\">Retinopathy</span>"
+        ]
+      },
+      "score": 47.1244,
+      "source": {
+        "record_lens_id_num": 9809558187022,
+        "record_lens_id": "098-095-581-870-223",
+        "lens_id_num": [9809558187022, 18384521709205],
+        "lens_id": ["098-095-581-870-223", "183-845-217-092-059"],
+        "ids": {
+          "doi": ["10.1007/978-981-16-6289-8_39"],
+          "openalex": ["W4205222329"]
+        },
+        "start_page": 459,
+        "end_page": 466,
+        "is_retracted": false,
+        "year_published": 2022,
+        "date_published": "2022-01-04",
+        "title": "Artificial Intelligence in Healthcare: Diabetic Retinopathy",
+        "author": [
+          {
+            "display_name": "Ajay"
+          },
+          {
+            "display_name": "Manish Pandey",
+            "orcid": "0000-0002-6804-7150"
+          }
+        ],
+        "reference_count": 15,
+        "referenced_by_count": 0,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "Proceedings of Data Analytics and Management"
+        },
+        "publication_type": "book chapter",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": false,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": true,
+        "has_orcid": true,
+        "has_mesh_term": false,
+        "has_abstract": true,
+        "has_full_text": false,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "abstract": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">Intelligence</span> can be useful in scenarios where skill labour fails to meet needs",
+          ". This article describes the challenges and solutions found to face the diagnosis of <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>"
+        ],
+        "title": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">Intelligence</span> and the <span class=\"highlight\">Screening</span> of <span class=\"highlight\">Diabetic</span> <span class=\"highlight\">Retinopathy</span>"
+        ]
+      },
+      "score": 46.869766,
+      "source": {
+        "record_lens_id_num": 7546521565642,
+        "record_lens_id": "075-465-215-656-420",
+        "lens_id_num": [7546521565642],
+        "lens_id": ["075-465-215-656-420"],
+        "ids": {
+          "magid": ["3111213398"]
+        },
+        "volume": "1",
+        "issue": "1",
+        "is_retracted": false,
+        "year_published": 2020,
+        "date_published": "2020-12-02",
+        "title": "Artificial Intelligence and the Screening of Diabetic Retinopathy",
+        "author": [
+          {
+            "display_name": "Teresa Araújo"
+          },
+          {
+            "display_name": "Pedro Alves Costa"
+          },
+          {
+            "display_name": "Catarina Carvalho"
+          }
+        ],
+        "reference_count": 0,
+        "referenced_by_count": 0,
+        "referenced_by_patent_count": 0,
+        "publication_type": "unknown",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": false,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": false,
+        "has_orcid": false,
+        "has_mesh_term": false,
+        "has_abstract": true,
+        "has_full_text": false,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "title": [
+          "<span class=\"highlight\">Artificial</span> <span class=\"highlight\">intelligence</span> for <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> <span class=\"highlight\">screening</span> in Africa."
+        ]
+      },
+      "score": 46.76128,
+      "source": {
+        "record_lens_id_num": 4811743667596,
+        "record_lens_id": "048-117-436-675-967",
+        "lens_id_num": [4933619532899, 9298185971722, 4811743667596],
+        "lens_id": ["049-336-195-328-994", "092-981-859-717-222", "048-117-436-675-967"],
+        "ids": {
+          "doi": ["10.1016/s2589-7500(19)30009-3"],
+          "pmid": [33323241],
+          "magid": ["2943427333"]
+        },
+        "volume": "1",
+        "issue": "1",
+        "is_retracted": false,
+        "year_published": 2019,
+        "date_published": "2019-05-02",
+        "title": "Artificial intelligence for diabetic retinopathy screening in Africa.",
+        "author": [
+          {
+            "display_name": "Wanjiku Mathenge"
+          }
+        ],
+        "reference_count": 11,
+        "referenced_by_count": 57,
+        "referenced_by_patent_count": 0,
+        "source": {
+          "title": "The Lancet. Digital health"
+        },
+        "publication_type": "journal article",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": true,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": true,
+        "has_affiliation_ror": false,
+        "has_orcid": false,
+        "has_mesh_term": true,
+        "has_abstract": false,
+        "has_full_text": false,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": true
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    },
+    {
+      "highlight": {
+        "abstract": [
+          "<span class=\"highlight\">Diabetic</span> <span class=\"highlight\">retinopathy</span> is the commonest cause of blindness in the working age population",
+          " threatening forms of the disease. It has been shown that many of the features of <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span>",
+          " computerised system for the <span class=\"highlight\">screening</span> of <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> through the integration"
+        ],
+        "title": [
+          "Development of an automated <span class=\"highlight\">screening</span> tool for <span class=\"highlight\">diabetic</span> <span class=\"highlight\">retinopathy</span> using <span class=\"highlight\">artificial</span> <span class=\"highlight\">intelligence</span>."
+        ]
+      },
+      "score": 46.716324,
+      "source": {
+        "record_lens_id_num": 4873850037380,
+        "record_lens_id": "048-738-500-373-800",
+        "lens_id_num": [4873850037380],
+        "lens_id": ["048-738-500-373-800"],
+        "ids": {
+          "magid": ["2469021461"]
+        },
+        "is_retracted": false,
+        "year_published": 2005,
+        "title": "Development of an automated screening tool for diabetic retinopathy using artificial intelligence.",
+        "author": [
+          {
+            "display_name": "Joanne McDonagh"
+          }
+        ],
+        "reference_count": 0,
+        "referenced_by_count": 0,
+        "referenced_by_patent_count": 0,
+        "publication_type": "dissertation",
+        "is_referenced_by_patent": false,
+        "is_referenced_by_scholarly": false,
+        "has_funding": false,
+        "has_chemical": false,
+        "has_affiliation": false,
+        "has_affiliation_ror": false,
+        "has_orcid": false,
+        "has_mesh_term": false,
+        "has_abstract": true,
+        "has_full_text": false,
+        "has_keyword": false,
+        "has_clinical_trial": false,
+        "has_field_of_study": true,
+        "is_open_access": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      }
+    }
+  ],
+  "joinStats": {
+    "joinLimitExceeded": false
+  }
+}

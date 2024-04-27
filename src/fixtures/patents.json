@@ -1,0 +1,4520 @@
+{
+  "queryId": "3177c293-6bec-42ef-96ec-3256085afe76",
+  "totalHits": 932,
+  "totalRelation": "eq",
+  "hits": [
+    {
+      "displayKey": "US 2022/0079429 A1",
+      "document": {
+        "record_lens_id": "062-087-164-936-635",
+        "lens_id": ["062-087-164-936-635", "049-296-016-129-516"],
+        "doc_key": "US_20220079429_A1_20220317",
+        "lens_internal": {
+          "legacy_pub_key": "US_2022_0079429_A1",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "US",
+        "doc_number": "20220079429",
+        "kind": "A1",
+        "date_published": "2022-03-17",
+        "year_published": 2022,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "202117463289",
+          "date": "2021-08-31"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "202010954218",
+            "kind": "A",
+            "date": "2020-09-11"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2020-09-11",
+        "title": {
+          "en": [
+            {
+              "text": "ARTIFICIAL INTELLIGENCE EYE DISEASE SCREENING AND DIAGNOSTIC SYSTEM BASED ON OPHTHALMIC ROBOT",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "NING BO EYE HOSPITAL",
+            "residence": "CN",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "CHEN WEI",
+            "residence": "CN",
+            "sequence": 1
+          },
+          {
+            "name": "LI ZHONGWEN",
+            "residence": "CN",
+            "sequence": 2
+          },
+          {
+            "name": "ZHENG QINXIANG",
+            "residence": "CN",
+            "sequence": 3
+          }
+        ],
+        "inventor_count": 3,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [
+          {
+            "name": "NING BO EYE HOSPITAL",
+            "address": "NO.599, BEIMINGCHENG ROAD, YINZHOU DISTRICT, NINGBO, ZHEJIANG, 315040",
+            "country": "CN",
+            "sequence": 1,
+            "recorded_date": "2021-08-31",
+            "execution_date": "2021-08-31",
+            "is_current_owner": true
+          }
+        ],
+        "owner_all_count": 1,
+        "has_owner": true,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B3/00",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/107",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 2
+          },
+          {
+            "symbol": "A61B3/117",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 3
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 4
+          },
+          {
+            "symbol": "G06T7/00",
+            "version_indicator": "2017-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 5
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 6
+          },
+          {
+            "symbol": "G16H40/63",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 7
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 8
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B3/00",
+        "class_ipcr.later_symbol": [
+          "A61B3/107",
+          "A61B3/117",
+          "A61B3/12",
+          "G06T7/00",
+          "G16H30/40",
+          "G16H40/63",
+          "G16H50/20"
+        ],
+        "class_ipcr.inv_symbol": [
+          "A61B3/00",
+          "A61B3/107",
+          "A61B3/117",
+          "A61B3/12",
+          "G06T7/00",
+          "G16H30/40",
+          "G16H40/63",
+          "G16H50/20"
+        ],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G06N3/08",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 5
+          },
+          {
+            "symbol": "G06V40/168",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 6
+          },
+          {
+            "symbol": "G06V40/193",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 7
+          },
+          {
+            "symbol": "G06V40/19",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 8
+          },
+          {
+            "symbol": "G06N3/045",
+            "version_indicator": "2023-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 9
+          },
+          {
+            "symbol": "A61B3/113",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-04-06",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 10
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-04-06",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 11
+          },
+          {
+            "symbol": "A61B3/0025",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-05-12",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 12
+          },
+          {
+            "symbol": "A61B3/0083",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-05-12",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 13
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 14
+          },
+          {
+            "symbol": "G06T2207/20081",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 15
+          },
+          {
+            "symbol": "G06T2207/20084",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 16
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 17
+          },
+          {
+            "symbol": "G06T2207/30168",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 18
+          },
+          {
+            "symbol": "G16H40/63",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-07-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 19
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-07-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 20
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-07-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 21
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 22
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 23
+          },
+          {
+            "symbol": "G16H40/63",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 24
+          },
+          {
+            "symbol": "A61B3/0016",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 25
+          },
+          {
+            "symbol": "A61B3/107",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 26
+          },
+          {
+            "symbol": "A61B3/117",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 27
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 28
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 29
+          },
+          {
+            "symbol": "G06T2207/20081",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 30
+          },
+          {
+            "symbol": "G06T2207/20084",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 31
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 32
+          },
+          {
+            "symbol": "G06T2207/30096",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 33
+          },
+          {
+            "symbol": "G06T2207/30168",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 34
+          }
+        ],
+        "class_cpc_cset": [],
+        "class_cpc.first_symbol": "G06V40/168",
+        "class_cpc.later_symbol": [
+          "G16H50/20",
+          "G16H30/40",
+          "G06N3/08",
+          "G06T7/0012",
+          "G06T2207/30041",
+          "G06V40/193",
+          "G06V40/19",
+          "G06N3/045",
+          "A61B3/12",
+          "A61B3/0025",
+          "A61B3/0083",
+          "G06T7/0012",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "G16H40/63",
+          "G16H30/40",
+          "G16H50/20",
+          "G16H50/20",
+          "G16H30/40",
+          "G16H40/63",
+          "A61B3/107",
+          "A61B3/117",
+          "A61B3/12",
+          "G06T7/0012",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30096",
+          "G06T2207/30168"
+        ],
+        "class_cpc.inv_symbol": [
+          "G16H50/20",
+          "G16H30/40",
+          "G06N3/08",
+          "G06T7/0012",
+          "G06V40/168",
+          "G06V40/193",
+          "G06V40/19",
+          "G06N3/045",
+          "A61B3/113",
+          "A61B3/12",
+          "A61B3/0025",
+          "A61B3/0083",
+          "G06T7/0012",
+          "G16H40/63",
+          "G16H30/40",
+          "G16H50/20",
+          "G16H50/20",
+          "G16H30/40",
+          "G16H40/63",
+          "A61B3/0016",
+          "A61B3/107",
+          "A61B3/117",
+          "A61B3/12",
+          "G06T7/0012"
+        ],
+        "class_cpc.add_symbol": [
+          "G06T2207/30041",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30096",
+          "G06T2207/30168"
+        ],
+        "class_cpc.source": "DOCDB",
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 4,
+          "patent": [
+            {
+              "lens_id": "172-537-111-005-101"
+            },
+            {
+              "lens_id": "106-865-699-134-834"
+            },
+            {
+              "lens_id": "009-811-209-516-881"
+            },
+            {
+              "lens_id": "088-783-905-947-626"
+            }
+          ]
+        },
+        "cited_by_patent": true,
+        "family": {
+          "simple": {
+            "size": 4,
+            "id": 207877779,
+            "member": [
+              {
+                "lens_id": "062-087-164-936-635",
+                "document_id": {
+                  "jurisdiction": "US",
+                  "doc_number": "20220079429",
+                  "kind": "A1",
+                  "date": "2022-03-17"
+                }
+              },
+              {
+                "lens_id": "128-095-008-610-214",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "112084961",
+                  "kind": "B",
+                  "date": "2021-05-14"
+                }
+              },
+              {
+                "lens_id": "188-682-832-870-092",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "112084961",
+                  "kind": "A",
+                  "date": "2020-12-15"
+                }
+              },
+              {
+                "lens_id": "161-049-350-303-200",
+                "document_id": {
+                  "jurisdiction": "EP",
+                  "doc_number": "4014833",
+                  "kind": "A1",
+                  "date": "2022-06-22"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 4,
+            "id": 207274183,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2021-08-31",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false,
+          "has_intention_to_grant": true
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "An artificial intelligence eye disease screening and diagnostic system based on an ophthalmic robot, comprising a human eye positioning analysis module, an image information collection module, an AI picture quality monitoring module, an eye disease analysis and diagnosis module, a data storage management module, and an execution control module. The system can replace ophthalmologists to perform eye disease diagnosis tasks in regions lacking ophthalmologists, and assists the ophthalmologists in eye disease screening and diagnosis in large hospitals with a large number of patients, thus improving diagnosis efficiency.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en"],
+        "has_abstract": true,
+        "claim": {
+          "en": [
+            {
+              "text": "1 . An artificial intelligence eye disease screening and diagnostic system based on an ophthalmic robot, comprising: a human eye positioning analysis module ( 101 ) used for controlling the ophthalmic robot to position an eye of an examinee to determine an eye position of the examinee; an execution control module ( 102 ) used for executing a corresponding instruction to control the ophthalmic robot to move to the eye positions of the examinee; an image information collection module ( 103 ) used for acquiring ocular surface image data, ocular anterior segment image data, and fundus image data of the eye of the examinee; an optometry information collection module ( 104 ) used for synchronously acquiring diopter and corneal curvature of the eye of the examinee; an AI picture quality monitoring module ( 105 ) used for performing image quality judgment on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee to determine the diagnostic image data of the examinee; wherein the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are taken as the diagnostic image data if the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified, and if at least one of the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee is unqualified, the image data of the unqualified part is reacquired for quality judgement until the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified; an eye disease analysis and diagnosis module ( 106 ) used for analyzing eye disease symptoms according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee; and a data storage management module ( 107 ) used for storing a diagnosis result generated by the eye disease analysis and diagnosis module ( 106 ) and image data collected by the image information collection module ( 103 ).",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "2 . The system according to claim 1 , wherein the method for performing eye disease screening and diagnosis using the artificial intelligence eye disease screening and diagnostic system comprises: S 201 , controlling the ophthalmic robot to position an eye of the examinee by the human eye positioning analysis module ( 101 ) to determine the eye position of the examinee; S 202 , executing a corresponding instruction by the execution control module ( 102 ) to control the ophthalmic robot to move to the eye positions of the examinee; S 203 , acquiring ocular surface image data, ocular anterior segment image data, and fundus image data of the eye of the examinee by the image information collection module ( 103 ), and synchronously acquiring diopter and corneal curvature of the eye of the examinee through the optometry information collection module ( 104 ); S 204 , performing image quality judgement on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee by the AI picture quality monitoring module ( 105 ), wherein the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are taken as the diagnostic image data if the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified, and if at least one of the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee is unqualified, the image data of the unqualified part is reacquired for quality judgement until the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified; S 205 , analyzing eye disease symptoms by the eye disease analysis and diagnosis module ( 106 ) according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee; and S 206 , storing a diagnosis result generated by the eye disease analysis and diagnosis module ( 106 ) and image data acquired by the image information collection module ( 103 ) by the data storage management module ( 107 ).",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "3 . The system according to claim 2 , wherein the step of analyzing eye disease symptoms by the eye disease analysis and diagnosis module according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee comprises: based on an eye disease diagnosis algorithm model, analyzing the eye disease symptoms according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee; a construction method of the eye disease diagnosis algorithm model comprises: S 301 , acquiring a training sample set consisting of the diagnostic image data, the diopter, and the corneal curvature of multiple examinees, and diagnosis results of multiple examinees, wherein the diagnosis results of the multiple examinees are obtained by ophthalmologists performing eye disease diagnosis according to the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the multiple examinees; and S 302 , based on the training sample set, training a preset convolutional neural network DenseNet121 using a deep learning algorithm to obtain the eye disease diagnosis algorithm model.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "4 . The system according to claim 3 , wherein the lesion types comprise: refractive error, eyelid diseases, conjunctival diseases, corneal diseases, uveitis diseases, cataract, vitreous lesions, glaucoma, and fundus oculi diseases.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "5 . The system according to claim 3 , wherein the training sample set further comprises at least one increment sample, the diagnostic image data of the at least one examinee in the at least one increment sample is obtained by performing at least one of shading adjustment, rotation, and mirror inversion on the diagnostic image data of at least one examinee of the multiple examinees.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "6 . The system according to claim 2 , wherein performing quality judgment on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee by the AI picture quality monitoring module ( 105 ) comprises: performing quality judgment on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee based on an image quality judgment model, thereby determining whether the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are qualified; wherein the image quality judgment model is a neural network model of DenseNet121 type.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "7 . The system according to claim 1 , wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "8 . The system according to claim 2 , wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "9 . The system according to claim 3 , wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "10 . The system according to claim 4 , wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "11 . The system according to claim 5 , wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "12 . The system according to claim 6 , wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            }
+          ]
+        },
+        "claim_lang": ["en"],
+        "has_claim": true,
+        "description": {},
+        "description_lang": [],
+        "has_description": true,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": true
+      },
+      "metadataStat": {
+        "collectionsCount": 3,
+        "publicCollectionsCount": 3,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "claim.en.text": [
+          "11 . The system according to claim 5 , wherein the artificial intelligence eye disease <span class=\"highlight\">screening</span>",
+          "12 . The system according to claim 6 , wherein the artificial intelligence eye disease <span class=\"highlight\">screening</span>",
+          "7 . The system according to claim 1 , wherein the artificial intelligence eye disease <span class=\"highlight\">screening</span>"
+        ],
+        "abstract.en.text": [
+          "An artificial intelligence eye disease <span class=\"highlight\">screening</span> and diagnostic system based on an ophthalmic robot",
+          ", comprising a human eye positioning analysis module, an <span class=\"highlight\">image</span> information collection module, an <span class=\"highlight\">AI</span>",
+          " in eye disease <span class=\"highlight\">screening</span> and diagnosis in large hospitals with a large number of patients, thus improving diagnosis efficiency."
+        ],
+        "title.en.text": [
+          "ARTIFICIAL INTELLIGENCE EYE DISEASE <span class=\"highlight\">SCREENING</span> AND DIAGNOSTIC SYSTEM BASED ON OPHTHALMIC ROBOT"
+        ],
+        "description.en.text": [
+          " used for acquiring ocular surface <span class=\"highlight\">image</span> data, ocular anterior segment <span class=\"highlight\">image</span> data, and <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span>",
+          ", and the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> data of the eye of the examinee by the <span class=\"highlight\">AI</span> picture quality monitoring module comprises",
+          " data and the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> data of the eye of the examinee by the <span class=\"highlight\">AI</span> picture quality monitoring"
+        ]
+      }
+    },
+    {
+      "displayKey": "EP 4014833 A1",
+      "document": {
+        "record_lens_id": "161-049-350-303-200",
+        "lens_id": ["161-049-350-303-200", "029-046-887-307-288"],
+        "doc_key": "EP_4014833_A1_20220622",
+        "lens_internal": {
+          "legacy_pub_key": "EP_4014833_A1",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "EP",
+        "doc_number": "4014833",
+        "kind": "A1",
+        "date_published": "2022-06-22",
+        "year_published": 2022,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "21194134",
+          "date": "2021-08-31"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "202010954218",
+            "kind": "A",
+            "date": "2020-09-11"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2020-09-11",
+        "title": {
+          "de": [
+            {
+              "text": "SYSTEM MIT KÜNSTLICHER INTELLIGENZ AUF BASIS EINES OPHTHALMISCHEN ROBOTERS ZUR UNTERSUCHUNG UND DIAGNOSE VON AUGENERKRANKUNGEN",
+              "lang": "de",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "en": [
+            {
+              "text": "ARTIFICIAL INTELLIGENCE EYE DISEASE SCREENING AND DIAGNOSTIC SYSTEM BASED ON OPHTHALMIC ROBOT",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "fr": [
+            {
+              "text": "SYSTÈME DE DÉPISTAGE ET DE DIAGNOSTIC DES MALADIES OCULAIRES PAR INTELLIGENCE ARTIFICIELLE BASÉ SUR UN ROBOT OPHTALMIQUE",
+              "lang": "fr",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["de", "en", "fr"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "NINGBO EYE HOSPITAL",
+            "residence": "CN",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "CHEN WEI",
+            "residence": "CN",
+            "sequence": 1
+          },
+          {
+            "name": "LI ZHONGWEN",
+            "residence": "CN",
+            "sequence": 2
+          },
+          {
+            "name": "ZHENG QINXIANG",
+            "residence": "CN",
+            "sequence": 3
+          }
+        ],
+        "inventor_count": 3,
+        "has_inventor": true,
+        "agent": [
+          {
+            "name": "Ipey",
+            "address": "Apex House \nThomas Street \nTrethomas, Caerphilly CF83 8DP",
+            "country": "GB"
+          }
+        ],
+        "agent_count": 1,
+        "has_agent": true,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B3/00",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-05-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/113",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-05-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 2
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-05-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 3
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B3/00",
+        "class_ipcr.later_symbol": ["A61B3/113", "A61B3/12"],
+        "class_ipcr.inv_symbol": ["A61B3/00", "A61B3/113", "A61B3/12"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G06N3/08",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2020-11-20",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 5
+          },
+          {
+            "symbol": "G06V40/168",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 6
+          },
+          {
+            "symbol": "G06V40/193",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 7
+          },
+          {
+            "symbol": "G06V40/19",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 8
+          },
+          {
+            "symbol": "G06N3/045",
+            "version_indicator": "2023-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 9
+          },
+          {
+            "symbol": "A61B3/113",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-04-06",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 10
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-04-06",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 11
+          },
+          {
+            "symbol": "A61B3/0025",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-05-12",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 12
+          },
+          {
+            "symbol": "A61B3/0083",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-05-12",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 13
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 14
+          },
+          {
+            "symbol": "G06T2207/20081",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 15
+          },
+          {
+            "symbol": "G06T2207/20084",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 16
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 17
+          },
+          {
+            "symbol": "G06T2207/30168",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-06-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 18
+          },
+          {
+            "symbol": "G16H40/63",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-07-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 19
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-07-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 20
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-07-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 21
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 22
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 23
+          },
+          {
+            "symbol": "G16H40/63",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 24
+          },
+          {
+            "symbol": "A61B3/0016",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 25
+          },
+          {
+            "symbol": "A61B3/107",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 26
+          },
+          {
+            "symbol": "A61B3/117",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 27
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 28
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 29
+          },
+          {
+            "symbol": "G06T2207/20081",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 30
+          },
+          {
+            "symbol": "G06T2207/20084",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 31
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 32
+          },
+          {
+            "symbol": "G06T2207/30096",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 33
+          },
+          {
+            "symbol": "G06T2207/30168",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2022-03-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 34
+          }
+        ],
+        "class_cpc_cset": [],
+        "class_cpc.first_symbol": "G06V40/168",
+        "class_cpc.later_symbol": [
+          "G16H50/20",
+          "G16H30/40",
+          "G06N3/08",
+          "G06T7/0012",
+          "G06T2207/30041",
+          "G06V40/193",
+          "G06V40/19",
+          "G06N3/045",
+          "A61B3/12",
+          "A61B3/0025",
+          "A61B3/0083",
+          "G06T7/0012",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "G16H40/63",
+          "G16H30/40",
+          "G16H50/20",
+          "G16H50/20",
+          "G16H30/40",
+          "G16H40/63",
+          "A61B3/107",
+          "A61B3/117",
+          "A61B3/12",
+          "G06T7/0012",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30096",
+          "G06T2207/30168"
+        ],
+        "class_cpc.inv_symbol": [
+          "G16H50/20",
+          "G16H30/40",
+          "G06N3/08",
+          "G06T7/0012",
+          "G06V40/168",
+          "G06V40/193",
+          "G06V40/19",
+          "G06N3/045",
+          "A61B3/113",
+          "A61B3/12",
+          "A61B3/0025",
+          "A61B3/0083",
+          "G06T7/0012",
+          "G16H40/63",
+          "G16H30/40",
+          "G16H50/20",
+          "G16H50/20",
+          "G16H30/40",
+          "G16H40/63",
+          "A61B3/0016",
+          "A61B3/107",
+          "A61B3/117",
+          "A61B3/12",
+          "G06T7/0012"
+        ],
+        "class_cpc.add_symbol": [
+          "G06T2207/30041",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "G06T2207/20081",
+          "G06T2207/20084",
+          "G06T2207/30041",
+          "G06T2207/30096",
+          "G06T2207/30168"
+        ],
+        "class_cpc.source": "DOCDB",
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [
+          {
+            "patent": {
+              "lens_id": "176-218-402-780-236",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "167-846-359-413-211",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "139-245-347-388-38X",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "110-928-099-433-419",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          }
+        ],
+        "reference_cited.patent_count": 4,
+        "cites_patent": true,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 0,
+          "patent": []
+        },
+        "cited_by_patent": false,
+        "family": {
+          "simple": {
+            "size": 4,
+            "id": 207877779,
+            "member": [
+              {
+                "lens_id": "062-087-164-936-635",
+                "document_id": {
+                  "jurisdiction": "US",
+                  "doc_number": "20220079429",
+                  "kind": "A1",
+                  "date": "2022-03-17"
+                }
+              },
+              {
+                "lens_id": "128-095-008-610-214",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "112084961",
+                  "kind": "B",
+                  "date": "2021-05-14"
+                }
+              },
+              {
+                "lens_id": "188-682-832-870-092",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "112084961",
+                  "kind": "A",
+                  "date": "2020-12-15"
+                }
+              },
+              {
+                "lens_id": "161-049-350-303-200",
+                "document_id": {
+                  "jurisdiction": "EP",
+                  "doc_number": "4014833",
+                  "kind": "A1",
+                  "date": "2022-06-22"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 4,
+            "id": 207274183,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2021-08-31",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "An artificial intelligence eye disease screening and diagnostic system based on an ophthalmic robot, comprising a human eye positioning analysis module, an image information collection module, an AI picture quality monitoring module, an eye disease analysis and diagnosis module, a data storage management module, and an execution control module. The system can replace ophthalmologists to perform eye disease diagnosis tasks in regions lacking ophthalmologists, and assists the ophthalmologists in eye disease screening and diagnosis in large hospitals with a large number of patients, thus improving diagnosis efficiency.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en"],
+        "has_abstract": true,
+        "claim": {
+          "en": [
+            {
+              "text": "An artificial intelligence eye disease screening and diagnostic system based on an ophthalmic robot, comprising:\n a human eye positioning analysis module (101) used for controlling the ophthalmic robot to position an eye of an examinee to determine an eye position of the examinee; \n an execution control module (102) used for executing a corresponding instruction to control the ophthalmic robot to move to the eye positions of the examinee; \n an image information collection module (103) used for acquiring ocular surface image data, ocular anterior segment image data, and fundus image data of the eye of the examinee; \n an optometry information collection module (104) used for synchronously acquiring diopter and corneal curvature of the eye of the examinee; \n an AI picture quality monitoring module (105) used for performing image quality judgment on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee to determine the diagnostic image data of the examinee; wherein the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are taken as the diagnostic image data if the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified, and if at least one of the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee is unqualified, the image data of the unqualified part is reacquired for quality judgement until the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified; \n an eye disease analysis and diagnosis module (106) used for analyzing eye disease symptoms according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee; \n and a data storage management module (107) used for storing a diagnosis result generated by the eye disease analysis and diagnosis module (106) and image data collected by the image information collection module (103).",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "The system according to claim 1, wherein the method for performing eye disease screening and diagnosis using the artificial intelligence eye disease screening and diagnostic system comprises:\n S201, controlling the ophthalmic robot to position an eye of the examinee by the human eye positioning analysis module (101) to determine the eye position of the examinee; \n S202, executing a corresponding instruction by the execution control module (102) to control the ophthalmic robot to move to the eye positions of the examinee; \n S203, acquiring ocular surface image data, ocular anterior segment image data, and fundus image data of the eye of the examinee by the image information collection module (103), and synchronously acquiring diopter and corneal curvature of the eye of the examinee through the optometry information collection module (104); \n S204, performing image quality judgement on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee by the AI picture quality monitoring module (105), wherein the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are taken as the diagnostic image data if the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified, and if at least one of the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee is unqualified, the image data of the unqualified part is reacquired for quality judgement until the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are all qualified; \n S205, analyzing eye disease symptoms by the eye disease analysis and diagnosis module (106) according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee; \nand S206, storing a diagnosis result generated by the eye disease analysis and diagnosis module (106) and image data acquired by the image information collection module (103) by the data storage management module (107).",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "The system according to claim 2, wherein the step of analyzing eye disease symptoms by the eye disease analysis and diagnosis module according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee comprises:\n based on an eye disease diagnosis algorithm model, analyzing the eye disease symptoms according to the diagnostic image data, the diopter, and the corneal curvature of the eye of the examinee to determine the lesion types of the eye of the examinee; \n a construction method of the eye disease diagnosis algorithm model comprises: \nS301, acquiring a training sample set consisting of the diagnostic image data, the diopter, and the corneal curvature of multiple examinees, and diagnosis results of multiple examinees, wherein the diagnosis results of the multiple examinees are obtained by ophthalmologists performing eye disease diagnosis according to the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the multiple examinees; \n and S302, based on the training sample set, training a preset convolutional neural network DenseNet121 using a deep learning algorithm to obtain the eye disease diagnosis algorithm model.",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "The system according to claim 3, wherein the lesion types comprise: refractive error, eyelid diseases, conjunctival diseases, corneal diseases, uveitis diseases, cataract, vitreous lesions, glaucoma, and fundus oculi diseases.",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "The system according to claim 3, wherein the training sample set further comprises at least one increment sample, the diagnostic image data of the at least one examinee in the at least one increment sample is obtained by performing at least one of shading adjustment, rotation, and mirror inversion on the diagnostic image data of at least one examinee of the multiple examinees.",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "The system according to claim 2, wherein performing quality judgment on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee by the AI picture quality monitoring module (105) comprises: performing quality judgment on the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee based on an image quality judgment model, thereby determining whether the ocular surface image data, the ocular anterior segment image data, and the fundus image data of the eye of the examinee are qualified; wherein the image quality judgment model is a neural network model of DenseNetl21 type.",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "The system according to any one of claims 1-6, wherein the artificial intelligence eye disease screening and diagnostic system is installed on the ophthalmic robot, and the ophthalmic robot is specifically a tabletop ophthalmic robot.",
+              "lang": "en",
+              "source": "EPO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            }
+          ]
+        },
+        "claim_lang": ["en"],
+        "has_claim": true,
+        "description": {},
+        "description_lang": [],
+        "has_description": true,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": true
+      },
+      "metadataStat": {
+        "collectionsCount": 3,
+        "publicCollectionsCount": 3,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "claim.en.text": [
+          " disease analysis and diagnosis module according to the diagnostic <span class=\"highlight\">image</span> data, the diopter",
+          " diseases, conjunctival diseases, corneal diseases, uveitis diseases, cataract, vitreous lesions, glaucoma, and <span class=\"highlight\">fundus</span> oculi diseases.",
+          " increment sample, the diagnostic <span class=\"highlight\">image</span> data of the at least one examinee in the at least one increment"
+        ],
+        "abstract.en.text": [
+          "An artificial intelligence eye disease <span class=\"highlight\">screening</span> and diagnostic system based on an ophthalmic robot",
+          ", comprising a human eye positioning analysis module, an <span class=\"highlight\">image</span> information collection module, an <span class=\"highlight\">AI</span>",
+          " in eye disease <span class=\"highlight\">screening</span> and diagnosis in large hospitals with a large number of patients, thus improving diagnosis efficiency."
+        ],
+        "title.en.text": [
+          "ARTIFICIAL INTELLIGENCE EYE DISEASE <span class=\"highlight\">SCREENING</span> AND DIAGNOSTIC SYSTEM BASED ON OPHTHALMIC ROBOT"
+        ],
+        "description.en.text": [
+          " for acquiring ocular surface <span class=\"highlight\">image</span> data, ocular anterior segment <span class=\"highlight\">image</span> data, and <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> data of the eye",
+          " anterior segment <span class=\"highlight\">image</span> data and the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> data of the examinee is judged by the <span class=\"highlight\">AI</span> <span class=\"highlight\">image</span> quality",
+          " data, and the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> data of the eye of the examinee by the <span class=\"highlight\">AI</span> picture quality monitoring"
+        ]
+      }
+    },
+    {
+      "displayKey": "SG 10201704418Y A",
+      "document": {
+        "record_lens_id": "165-958-077-474-634",
+        "lens_id": ["165-958-077-474-634"],
+        "doc_key": "SG_10201704418Y_A_20181228",
+        "lens_internal": {
+          "legacy_pub_key": "SG_10201704418Y_A",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "SG",
+        "doc_number": "10201704418Y",
+        "kind": "A",
+        "date_published": "2018-12-28",
+        "year_published": 2018,
+        "ids": [],
+        "publication_type": "UNKNOWN",
+        "application_reference": {
+          "doc_number": "10201704418Y",
+          "date": "2017-05-30"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "SG",
+            "doc_number": "10201704418Y",
+            "kind": "A",
+            "date": "2017-05-30"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2017-05-30",
+        "title": {
+          "en": [
+            {
+              "text": "AN EYE SCREENING METHOD USING A MODEL BUILD USING AN AI ENGINE TRAINED WITH SPECIALIST-GRADED RETINAL FUNDUS IMAGES",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "SKAINOM PTE LTD",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "AW CHEOK HUAT",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 1
+          },
+          {
+            "name": "TAN GEOK LENG",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 2
+          },
+          {
+            "name": "WONG YEW SIN",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 3
+          },
+          {
+            "name": "HUANG WEI JIE",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 4
+          },
+          {
+            "name": "MELVIN ONG JUN WEN",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 5
+          },
+          {
+            "name": "NIE WENWEI",
+            "address": "SG",
+            "residence": "SG",
+            "sequence": 6
+          }
+        ],
+        "inventor_count": 6,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [],
+        "class_ipcr.later_symbol": [],
+        "class_ipcr.inv_symbol": [],
+        "class_ipcr.add_symbol": [],
+        "class_cpc": [],
+        "class_cpc_cset": [],
+        "class_cpc.later_symbol": [],
+        "class_cpc.inv_symbol": [],
+        "class_cpc.add_symbol": [],
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 0,
+          "patent": []
+        },
+        "cited_by_patent": false,
+        "family": {
+          "simple": {
+            "size": 1,
+            "id": 203548617,
+            "member": [
+              {
+                "lens_id": "165-958-077-474-634",
+                "document_id": {
+                  "jurisdiction": "SG",
+                  "doc_number": "10201704418Y",
+                  "kind": "A",
+                  "date": "2018-12-28"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 4,
+            "id": 203085556,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "granted": false,
+          "earliest_filing_date": "2017-05-30",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 0,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "AN EYE SCREENING METHOD USING A MODEL BUILD USING AN AI ENGINE TRAINED WITH SPECIALIST-GRADED RETINAL FUNDUS IMAGES An embodiment of the invention is a method of eye screening comprising the steps of: (a) loading a plurality of specialist-graded retinal fundus images into a database; (b) training an AI Engine to operate on the specialist-graded retinal fundus images; (c) building a model from the specialist-graded retinal fundus images using the AI Engine to differentiate between only one of a normal classification and a not-normal classification; (d) receiving from a web-server a plurality of patient files, (e) loading the patient files into the database; (f) differentiating with use of the model the retinal fundus images of each patient file between only one of the normal classification and the not-normal classification; and (g) updating each patient file to classify the retinal fundus images as only one of the normal classification and the not-normal classification. The AI Engine comprises at least one algorithm or a combination of algorithms selected from machine learning algorithms and deep learning algorithms. The AI Engine comprise at least one of a support vector machine (SVM), a gradient boosting machine (GBM), a Random Forest and a convolutional neural network (CNN). Each patient file includes a plurality of patient data and retinal fundus images that are un-graded. [No Figure]",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          " RETINAL <span class=\"highlight\">FUNDUS</span> <span class=\"highlight\">IMAGES</span> An embodiment of the invention is a method of eye <span class=\"highlight\">screening</span> comprising the steps",
+          " an <span class=\"highlight\">AI</span> Engine to operate on the specialist-graded retinal <span class=\"highlight\">fundus</span> <span class=\"highlight\">images</span>; (c) building a model from",
+          " the specialist-graded retinal <span class=\"highlight\">fundus</span> <span class=\"highlight\">images</span> using the <span class=\"highlight\">AI</span> Engine to differentiate between only one"
+        ],
+        "title.en.text": [
+          "AN EYE <span class=\"highlight\">SCREENING</span> METHOD USING A MODEL BUILD USING AN <span class=\"highlight\">AI</span> ENGINE TRAINED WITH SPECIALIST-GRADED RETINAL <span class=\"highlight\">FUNDUS</span> <span class=\"highlight\">IMAGES</span>"
+        ]
+      }
+    },
+    {
+      "displayKey": "CN 110870759 A",
+      "document": {
+        "record_lens_id": "181-533-439-157-801",
+        "lens_id": ["181-533-439-157-801"],
+        "doc_key": "CN_110870759_A_20200310",
+        "lens_internal": {
+          "legacy_pub_key": "CN_110870759_A",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "CN",
+        "doc_number": "110870759",
+        "kind": "A",
+        "date_published": "2020-03-10",
+        "year_published": 2020,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "201811011974",
+          "date": "2018-08-31"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "201811011974",
+            "kind": "A",
+            "date": "2018-08-31"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2018-08-31",
+        "title": {
+          "en": [
+            {
+              "text": "Quality control method and system for remote eye fundus screening, and storage equipment",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "用于远程眼底筛查的质量控制方法和系统、及存储设备",
+              "lang": "zh",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en", "zh"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "FUZHOU YIYING HEALTH TECH CO LTD",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "YU LUN",
+            "sequence": 1
+          },
+          {
+            "name": "QIU YINGQIANG",
+            "sequence": 2
+          },
+          {
+            "name": "LIN JIAWEN",
+            "sequence": 3
+          },
+          {
+            "name": "CAO XINRONG",
+            "sequence": 4
+          },
+          {
+            "name": "WANG LINA",
+            "sequence": 5
+          }
+        ],
+        "inventor_count": 5,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B3/14",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2020-06-24",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-06-24",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-06-24",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-06-24",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B3/14",
+        "class_ipcr.later_symbol": ["A61B3/12", "G16H30/20", "G16H50/20"],
+        "class_ipcr.inv_symbol": ["A61B3/14", "A61B3/12", "G16H30/20", "G16H50/20"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [
+          {
+            "symbol": "A61B3/14",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2018-11-19",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2018-11-19",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2018-11-19",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2018-11-19",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-03-27",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 5
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2021-11-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 6
+          },
+          {
+            "symbol": "G06T2207/10024",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2021-11-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 7
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2021-11-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 8
+          },
+          {
+            "symbol": "G06T2207/30168",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2021-11-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 9
+          },
+          {
+            "symbol": "G06T2207/20032",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2021-11-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 10
+          },
+          {
+            "symbol": "G16H40/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-02-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 11
+          },
+          {
+            "symbol": "G16H40/67",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-02-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 12
+          },
+          {
+            "symbol": "G16H80/00",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-02-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 13
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 14
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 15
+          },
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 16
+          },
+          {
+            "symbol": "A61B3/14",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 17
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 18
+          },
+          {
+            "symbol": "G06T2207/30041",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 19
+          },
+          {
+            "symbol": "G06T2207/30168",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 20
+          },
+          {
+            "symbol": "H04N7/183",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-11-04",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 21
+          }
+        ],
+        "class_cpc_cset": [],
+        "class_cpc.first_symbol": "A61B3/14",
+        "class_cpc.later_symbol": [
+          "A61B3/12",
+          "G16H50/20",
+          "G16H30/20",
+          "G16H30/20",
+          "G06T2207/10024",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "G06T2207/20032",
+          "G16H40/20",
+          "G16H40/67",
+          "G16H80/00",
+          "G16H30/20",
+          "G16H50/20",
+          "A61B3/12",
+          "A61B3/14",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "H04N7/183"
+        ],
+        "class_cpc.inv_symbol": [
+          "A61B3/14",
+          "A61B3/12",
+          "G16H50/20",
+          "G16H30/20",
+          "G16H30/20",
+          "G06T7/0012",
+          "G16H40/20",
+          "G16H40/67",
+          "G16H80/00",
+          "G16H30/20",
+          "G16H50/20",
+          "A61B3/12",
+          "A61B3/14",
+          "G06T7/0012",
+          "H04N7/183"
+        ],
+        "class_cpc.add_symbol": [
+          "G06T2207/10024",
+          "G06T2207/30041",
+          "G06T2207/30168",
+          "G06T2207/20032",
+          "G06T2207/30041",
+          "G06T2207/30168"
+        ],
+        "class_cpc.source": "DOCDB",
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [
+          {
+            "patent": {
+              "lens_id": "012-049-298-166-794",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "157-824-387-421-286",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "125-652-904-664-237",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "105-674-767-623-907",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "140-037-578-120-726",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "193-875-637-713-974",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "067-453-289-669-98X",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          }
+        ],
+        "reference_cited.patent_count": 7,
+        "cites_patent": true,
+        "reference_cited.npl_count": 1,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": true,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 3,
+          "patent": [
+            {
+              "lens_id": "098-257-564-869-529"
+            },
+            {
+              "lens_id": "038-280-910-068-759"
+            },
+            {
+              "lens_id": "135-381-589-625-182"
+            }
+          ]
+        },
+        "cited_by_patent": true,
+        "family": {
+          "simple": {
+            "size": 4,
+            "id": 229525594,
+            "member": [
+              {
+                "lens_id": "013-901-443-994-754",
+                "document_id": {
+                  "jurisdiction": "US",
+                  "doc_number": "20210343007",
+                  "kind": "A1",
+                  "date": "2021-11-04"
+                }
+              },
+              {
+                "lens_id": "056-910-853-483-994",
+                "document_id": {
+                  "jurisdiction": "AU",
+                  "doc_number": "2018438331",
+                  "kind": "A1",
+                  "date": "2021-05-06"
+                }
+              },
+              {
+                "lens_id": "192-509-777-646-885",
+                "document_id": {
+                  "jurisdiction": "WO",
+                  "doc_number": "2020042404",
+                  "kind": "A1",
+                  "date": "2020-03-05"
+                }
+              },
+              {
+                "lens_id": "181-533-439-157-801",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "110870759",
+                  "kind": "A",
+                  "date": "2020-03-10"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 4,
+            "id": 228185583,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2018-08-31",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "The invention relates to the field of eye fundus image processing, and in particular relates to a quality control method and system for remote eye fundus screening, and storage equipment. The qualitycontrol method for the remote eye fundus screening includes the following steps: a terminal application mechanism obtains an eye fundus image of an examinee through an eye fundus camera, and sends theeye fundus image, personal information and consultation data carried by the examinee to a remote interpretation consultation center; the remote interpretation consultation center judges whether the eye fundus image, the personal information and the consultation data are qualified; and if the eye fundus image, the personal information and the consultation data are unqualified, the remote interpretation consultation center terminates interpretation. The method and system can ensure that a clear and usable qualified eye fundus image is obtained in one follow-up or screening of the patient, and are fundamental guarantees for avoiding causing multiple round or repeated examination of the examinee, causing unnecessary cost or time waste and even affecting an eye fundus screening process or screening rate, and ensuring the effective and smooth progress of the remote eye fundus medical screening work.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "本发明涉及眼底图像处理领域，特别涉及用于远程眼底筛查的质量控制方法和系统、及存储设备。一种用于远程眼底筛查的质量控制方法，包括步骤：终端应用机构通过眼底照相机获取受检者的眼底图像，并将眼底图像、受检者随带的个人信息和问诊资料发送至远程判读会诊中心；远程判读会诊中心判断所述眼底图像、个人信息和问诊资料是否合格；若所述眼底图像、个人信息和问诊资料不合格，远程判读会诊中心终止判读。本发明可确保在患者的一次随访或筛查中获取清晰、可用的合格眼底图象，是避免造成受检查者多次往返或重复检查、造成不必要的费用或时间上的浪费，甚至影响了眼底筛查的进程或筛查率，保证远程眼底医学筛查工作有效、顺利进行的根本保障。",
+              "lang": "zh",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en", "zh"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          "The invention relates to the field of eye <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> processing, and in particular relates",
+          " to a quality control method and system for remote eye <span class=\"highlight\">fundus</span> <span class=\"highlight\">screening</span>, and storage equipment",
+          " and usable qualified eye <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> is obtained in one follow-up or <span class=\"highlight\">screening</span> of the patient"
+        ],
+        "title.en.text": [
+          "Quality control method and system for remote eye <span class=\"highlight\">fundus</span> <span class=\"highlight\">screening</span>, and storage equipment"
+        ]
+      }
+    },
+    {
+      "displayKey": "US 2023/0301503 A1",
+      "document": {
+        "record_lens_id": "172-642-241-188-027",
+        "lens_id": ["192-980-064-053-267", "172-642-241-188-027"],
+        "doc_key": "US_20230301503_A1_20230928",
+        "lens_internal": {
+          "legacy_pub_key": "US_2023_0301503_A1",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "US",
+        "doc_number": "20230301503",
+        "kind": "A1",
+        "date_published": "2023-09-28",
+        "year_published": 2023,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "202118020232",
+          "date": "2021-08-04"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "KR",
+            "doc_number": "20200100030",
+            "kind": "A",
+            "date": "2020-08-10"
+          },
+          {
+            "jurisdiction": "KR",
+            "doc_number": "2021010186",
+            "kind": "W",
+            "date": "2021-08-04"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2020-08-10",
+        "title": {
+          "en": [
+            {
+              "text": "ARTIFICIAL INTELLIGENCE-BASED GASTROSCOPIC IMAGE ANALYSIS METHOD",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "WAYCEN INC",
+            "residence": "KR",
+            "sequence": 1,
+            "app_type": "applicant"
+          },
+          {
+            "name": "UNIV YONSEI IACF",
+            "residence": "KR",
+            "sequence": 2,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 2,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "KIM KYUNG NAM",
+            "residence": "KR",
+            "sequence": 1
+          },
+          {
+            "name": "KIM JIE-HYUN",
+            "residence": "KR",
+            "sequence": 2
+          }
+        ],
+        "inventor_count": 2,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [
+          {
+            "name": "INDUSTRY-ACADEMIC COOPERATION FOUNDATION YONSEI UNIVERSITY",
+            "address": "50, YONSEI-RO, SEODAEMUN-GU,, SEOUL, 03722",
+            "country": "KR",
+            "sequence": 2,
+            "recorded_date": "2023-02-08",
+            "execution_date": "2023-01-27",
+            "is_current_owner": true
+          },
+          {
+            "name": "WAYCEN INC",
+            "address": "4F, 9, YEONGDONG-DAERO 75-GIL, GANGNAM-GU,, SEOUL, 06182",
+            "country": "KR",
+            "sequence": 4,
+            "recorded_date": "2023-02-08",
+            "execution_date": "2023-01-27",
+            "is_current_owner": true
+          }
+        ],
+        "owner_all_count": 2,
+        "has_owner": true,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B1/273",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2023-09-28",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 1
+          },
+          {
+            "symbol": "G06T7/00",
+            "version_indicator": "2017-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-09-28",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 2
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-09-28",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 3
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B1/273",
+        "class_ipcr.later_symbol": ["G06T7/00", "G16H30/20"],
+        "class_ipcr.inv_symbol": ["A61B1/273", "G06T7/00", "G16H30/20"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2023-10-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 1
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-10-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 2
+          },
+          {
+            "symbol": "G16H50/70",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-10-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 3
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-10-17",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 4
+          },
+          {
+            "symbol": "A61B1/000096",
+            "version_indicator": "2022-02-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2024-01-02",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 5
+          },
+          {
+            "symbol": "A61B1/2736",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2024-01-02",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 6
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2024-01-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 7
+          },
+          {
+            "symbol": "G06T2207/30096",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2024-01-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 8
+          },
+          {
+            "symbol": "G06T2207/10068",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2024-01-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 9
+          },
+          {
+            "symbol": "G06T2207/30092",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2024-01-26",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "EP",
+            "sequence": 10
+          },
+          {
+            "symbol": "G16H50/50",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 11
+          },
+          {
+            "symbol": "G16H50/70",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 12
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 13
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 14
+          },
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 15
+          },
+          {
+            "symbol": "A61B1/2736",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 16
+          },
+          {
+            "symbol": "G06N3/08",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 17
+          },
+          {
+            "symbol": "G06N20/00",
+            "version_indicator": "2019-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-09-11",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "KR",
+            "sequence": 18
+          },
+          {
+            "symbol": "G16H30/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-10-03",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 19
+          },
+          {
+            "symbol": "G16H30/40",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2023-10-03",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 20
+          },
+          {
+            "symbol": "A61B1/2736",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2023-10-03",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 21
+          },
+          {
+            "symbol": "G06T7/0012",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-10-03",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 22
+          },
+          {
+            "symbol": "G06T2207/10068",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2023-10-03",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 23
+          },
+          {
+            "symbol": "G06T2207/20084",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "A",
+            "action_date": "2023-10-03",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "US",
+            "sequence": 24
+          }
+        ],
+        "class_cpc_cset": [],
+        "class_cpc.first_symbol": "G16H30/40",
+        "class_cpc.later_symbol": [
+          "G16H50/20",
+          "G16H50/70",
+          "G16H30/20",
+          "A61B1/000096",
+          "A61B1/2736",
+          "G06T7/0012",
+          "G06T2207/30096",
+          "G06T2207/10068",
+          "G06T2207/30092",
+          "G16H50/70",
+          "G16H30/20",
+          "G16H30/40",
+          "G16H50/20",
+          "A61B1/2736",
+          "G06N3/08",
+          "G06N20/00",
+          "G16H30/20",
+          "G16H30/40",
+          "G06T7/0012",
+          "G06T2207/10068",
+          "G06T2207/20084"
+        ],
+        "class_cpc.inv_symbol": [
+          "G16H30/40",
+          "G16H50/20",
+          "G16H50/70",
+          "G16H30/20",
+          "A61B1/000096",
+          "A61B1/2736",
+          "G06T7/0012",
+          "G16H50/50",
+          "G16H50/70",
+          "G16H30/20",
+          "G16H30/40",
+          "G16H50/20",
+          "A61B1/2736",
+          "G06N3/08",
+          "G06N20/00",
+          "G16H30/20",
+          "A61B1/2736",
+          "G06T7/0012"
+        ],
+        "class_cpc.add_symbol": [
+          "G06T2207/30096",
+          "G06T2207/10068",
+          "G06T2207/30092",
+          "G16H30/40",
+          "G06T2207/10068",
+          "G06T2207/20084"
+        ],
+        "class_cpc.source": "DOCDB",
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 0,
+          "patent": []
+        },
+        "cited_by_patent": false,
+        "family": {
+          "simple": {
+            "size": 4,
+            "id": 200495670,
+            "member": [
+              {
+                "lens_id": "167-649-438-551-281",
+                "document_id": {
+                  "jurisdiction": "KR",
+                  "doc_number": "102255311",
+                  "kind": "B1",
+                  "date": "2021-05-24"
+                }
+              },
+              {
+                "lens_id": "172-642-241-188-027",
+                "document_id": {
+                  "jurisdiction": "US",
+                  "doc_number": "20230301503",
+                  "kind": "A1",
+                  "date": "2023-09-28"
+                }
+              },
+              {
+                "lens_id": "193-021-561-786-990",
+                "document_id": {
+                  "jurisdiction": "KR",
+                  "doc_number": "102255311",
+                  "kind": "B9",
+                  "date": "2021-11-19"
+                }
+              },
+              {
+                "lens_id": "030-896-849-875-985",
+                "document_id": {
+                  "jurisdiction": "WO",
+                  "doc_number": "2022035119",
+                  "kind": "A1",
+                  "date": "2022-02-17"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 4,
+            "id": 200128521,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2021-08-04",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false,
+          "has_intention_to_grant": true
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "Disclosed is an artificial intelligence (AI)-based gastroscopic image analysis method including a step of configuring training data and training the plurality of image classification models, a step of observing or photographing respective parts of a stomach from the oral cavity and the laryngopharynx to the second part of the duodenum using a gastroscopic probe, a step of automatically classifying and recognizing the anatomical location of the stomach with respect to an image captured during photographing using the plurality of image classification models, automatically storing or reporting the location of a lesion, and a step of segmenting an image of a specific part in the captured gastroscopic image for each region by a region segmentation model and outputting the same number of segmented maps as the number of target classes as the result of segmentation.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en"],
+        "has_abstract": true,
+        "claim": {
+          "en": [
+            {
+              "text": "1 . An artificial intelligence (AI)-based gastroscopic image analysis method, wherein a captured gastroscopic image is input to a computer and the gastroscopic image is analyzed by an artificial intelligence training model installed in the computer, the artificial intelligence (AI)-based gastroscopic image analysis method comprising: a) configuring a plurality of artificial intelligence-based image classification models for the captured gastroscopic image; b) configuring training data for each of the plurality of image classification models and training the plurality of image classification models; c) observing or photographing respective parts of a stomach from an oral cavity and a laryngopharynx to a second part of a duodenum or from the second part of the duodenum to the oral cavity and the laryngopharynx using a gastroscopic probe; d) automatically classifying and recognizing an anatomical location of the stomach with respect to an image captured during photographing using the plurality of image classification models, automatically storing or reporting the location of a lesion, and verifying whether parts, images of which are recommended to be captured and stored, in gastroscopy have been photographed; and e) segmenting an image of a specific part in the captured gastroscopic image for each region by a region segmentation model and outputting the same number of segmented maps as the number of target classes as a result of segmentation, wherein when the plurality of image classification models is configured in step a), the image classification models are configured so as to be classified into parts adjacent to target parts, and the image classification models are configured so as to be classified into a first classification model to a tenth classification model, the image of the specific part comprises images of a body of the stomach, an antrum of the stomach, and a fundus of the stomach in step e), and each of the images of the body of the stomach, the antrum of the stomach, and the fundus of the stomach is segmented for each region by the region segmentation model and comprises an anterior wall, a posterior wall, a lesser curvature, and a greater curvature as a result of segmentation.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "2 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 1 , wherein the training data are configured for each of the plurality of image classification models in step b), and the training data are configured so as to be classified into parts adjacent to each of the target parts in the captured gastroscopic image.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "3 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 1 , wherein the first classification model is configured such that the target part is the oral cavity/the laryngopharynx and parts adjacent thereto are an esophagus and an esophagogastric junction, and the second classification model is configured such that the target part is the esophagus and parts adjacent thereto are the oral cavity and the esophagogastric junction.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "4 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 3 , wherein the third classification model is configured such that the target part is the esophagogastric junction and parts adjacent thereto are the esophagus and the body of the stomach, and the fourth classification model is configured such that the target part is the body of the stomach and parts adjacent thereto are a cardia of the stomach, the fundus of the stomach, and the antrum of the stomach.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "5 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 4 , wherein the fifth classification model is configured such that the target part is the antrum of the stomach and parts adjacent thereto are the cardia of the stomach, the fundus of the stomach, and the body of the stomach, and the sixth classification model is configured such that the target part is the fundus of the stomach and parts adjacent thereto are the cardia of the stomach, the body of the stomach, and the antrum of the stomach.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "6 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 5 , wherein the seventh classification model is configured such that the target part is the cardia of the stomach and parts adjacent thereto are the fundus of the stomach, the body of the stomach, and the antrum of the stomach, and the eighth classification model is configured such that the target part is an angle of the stomach and parts adjacent thereto are the cardia of the stomach, the fundus of the stomach, the body of the stomach, and the antrum of the stomach.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "7 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 6 , wherein the ninth classification model is configured such that the target part is a duodenal bulb and parts adjacent thereto are the second part of the duodenum and the antrum of the stomach, and the tenth classification model is configured such that the target part is the second part of the duodenum and parts adjacent thereto are the duodenal bulb and the antrum of the stomach.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "8 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 1 , wherein, when the respective parts of the stomach from the second part of the duodenum to the oral cavity and the laryngopharynx are photographed in step c), photographing is performed in a sequence of the second part of the duodenum→a duodenal bulb→a pyloric ring→the antrum of the stomach→an angle of the stomach→the body of the stomach→the fundus of the stomach→a cardia of the stomach→the esophagus→the oral cavity and the laryngopharynx.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "9 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 7 , wherein, when the anatomical location of the stomach is automatically classified and recognized with respect to the image captured during photographing using the plurality of image classification models and the location of the lesion is automatically stored in step d), the oral cavity/the laryngopharynx, the esophagus, and the esophagogastric junction are classified and recognized using the first, second, and third classification models, the esophagogastric junction, the esophagus, and the body of the stomach are classified and recognized using the second, third, and fourth classification models, the body of the stomach, the esophagogastric junction, and the antrum of the stomach are classified and recognized using the third, fourth, and fifth classification models, the antrum of the stomach, the body of the stomach, the angle of the stomach, and the duodenal bulb are classified and recognized using the fourth, fifth, eighth, and ninth classification models, and the duodenal bulb, the antrum of the stomach, and the second part of the duodenum are classified and recognized using the fifth, ninth, and tenth classification models in order to automatically store the location of the lesion during the photographing process from the oral cavity and the laryngopharynx to the second part of the duodenum.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "10 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 7 , wherein, when the anatomical location of the stomach is automatically classified and recognized with respect to the image captured during photographing using the plurality of image classification models and the location of the lesion is automatically reported in step d), the second part of the duodenum, the duodenal bulb, and the antrum of the stomach are classified and recognized using the fifth, ninth, and tenth classification models, the antrum of the stomach, the duodenal bulb, the angle of the stomach, and the body of the stomach are classified and recognized using the fourth, fifth, eighth, and ninth classification models, the body of the stomach, the antrum of the stomach, the fundus of the stomach, the cardia of the stomach, and the esophagogastric junction are classified and recognized using the third, fourth, fifth, sixth, and seventh classification models, the esophagogastric junction, the body of the stomach, and the esophagus are classified and recognized using the second, third, and fourth classification models, and the esophagus, the esophagogastric junction, and the oral cavity/the laryngopharynx are classified and recognized using the first, second, and third classification models in order to report the location of the lesion during the photographing process from the second part of the duodenum to the oral cavity and the laryngopharynx.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "11 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 1 , wherein the parts, images of which are recommended to be captured and stored, in gastroscopy in step d) comprise an esophagogastric junction, an angle of the stomach, the antrum of the stomach, and a duodenal bulb.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            },
+            {
+              "text": "12 . The artificial intelligence (AI)-based gastroscopic image analysis method according to claim 1 , wherein, when the anatomical location of the stomach is automatically classified and recognized with respect to the image captured during photographing using the plurality of image classification models and the location of the lesion is automatically stored or reported in step d), a perforation or a lesion becoming a cause of the perforation in a pylorus of the stomach between the duodenum and the antrum of the stomach is automatically analyzed and reported.",
+              "lang": "en",
+              "source": "USPTO_FULLTEXT",
+              "data_format": "ORIGINAL"
+            }
+          ]
+        },
+        "claim_lang": ["en"],
+        "has_claim": true,
+        "description": {},
+        "description_lang": [],
+        "has_description": true,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": true
+      },
+      "metadataStat": {
+        "collectionsCount": 2,
+        "publicCollectionsCount": 2,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "claim.en.text": [
+          "9 . The artificial intelligence (<span class=\"highlight\">AI</span>)-based gastroscopic <span class=\"highlight\">image</span> analysis method according to claim 7",
+          "2 . The artificial intelligence (<span class=\"highlight\">AI</span>)-based gastroscopic <span class=\"highlight\">image</span> analysis method according to claim 1",
+          "8 . The artificial intelligence (<span class=\"highlight\">AI</span>)-based gastroscopic <span class=\"highlight\">image</span> analysis method according to claim 1"
+        ],
+        "abstract.en.text": [
+          "Disclosed is an artificial intelligence (<span class=\"highlight\">AI</span>)-based gastroscopic <span class=\"highlight\">image</span> analysis method including",
+          " a step of configuring training data and training the plurality of <span class=\"highlight\">image</span> classification models, a step",
+          " classifying and recognizing the anatomical location of the stomach with respect to an <span class=\"highlight\">image</span> captured during"
+        ],
+        "title.en.text": [
+          "ARTIFICIAL INTELLIGENCE-BASED GASTROSCOPIC <span class=\"highlight\">IMAGE</span> ANALYSIS METHOD"
+        ],
+        "description.en.text": [
+          " <span class=\"highlight\">image</span> analysis method, and more particularly to an artificial intelligence (<span class=\"highlight\">AI</span>)-based gastroscopic <span class=\"highlight\">image</span>",
+          " analysis method capable of inputting a gastroscopic <span class=\"highlight\">image</span> into an artificial intelligence (<span class=\"highlight\">AI</span>",
+          " intelligence (<span class=\"highlight\">AI</span>) training model and analyzing the input <span class=\"highlight\">image</span> thereby, thereby automatically recognizing"
+        ]
+      }
+    },
+    {
+      "displayKey": "CN 109875503 A",
+      "document": {
+        "record_lens_id": "171-357-208-852-53X",
+        "lens_id": ["171-357-208-852-53X"],
+        "doc_key": "CN_109875503_A_20190614",
+        "lens_internal": {
+          "legacy_pub_key": "CN_109875503_A",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "CN",
+        "doc_number": "109875503",
+        "kind": "A",
+        "date_published": "2019-06-14",
+        "year_published": 2019,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "201910144446",
+          "date": "2019-02-27"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "201910144446",
+            "kind": "A",
+            "date": "2019-02-27"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2019-02-27",
+        "title": {
+          "en": [
+            {
+              "text": "Portable non-mydriatic fundus camera based on AI artificial intelligence platform",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "一种基于AI人工智能平台的便携式免散瞳眼底相机",
+              "lang": "zh",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en", "zh"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "ZHONGMINGNIAO SUZHOU INTELLIGENT TECH CO LTD",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "NIU HAITAO",
+            "sequence": 1
+          },
+          {
+            "name": "LIU ZHIFENG",
+            "sequence": 2
+          }
+        ],
+        "inventor_count": 2,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2019-09-22",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/14",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2019-09-22",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B3/12",
+        "class_ipcr.later_symbol": ["A61B3/14"],
+        "class_ipcr.inv_symbol": ["A61B3/12", "A61B3/14"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [],
+        "class_cpc_cset": [],
+        "class_cpc.later_symbol": [],
+        "class_cpc.inv_symbol": [],
+        "class_cpc.add_symbol": [],
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 2,
+          "patent": [
+            {
+              "lens_id": "131-359-853-496-193"
+            },
+            {
+              "lens_id": "145-203-320-118-584"
+            }
+          ]
+        },
+        "cited_by_patent": true,
+        "family": {
+          "simple": {
+            "size": 1,
+            "id": 24019334,
+            "member": [
+              {
+                "lens_id": "171-357-208-852-53X",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "109875503",
+                  "kind": "A",
+                  "date": "2019-06-14"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 1,
+            "id": 24019334,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2019-02-27",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "The invention discloses a portable non-mydriatic fundus camera based on an AI artificial intelligence platform. The camera includes: a main imaging optical path system for transmitting light of assisted illumination source to the fundus tissue, and collecting reflected light of the fundus tissue; an assisted illumination optical path system for providing illumination to the main imaging optical path system; a guided fixation optical path system for forming a fixation light guide map in the main imaging optical path system; a photosensitive element for converting a fundus reflected light signalcollected by the main imaging optical path system into image information; an AI artificial intelligence hardware processing platform for image data processing, intelligent detection, and diagnosis; amobile communication system used for automatically positioning high-speed data transmission and collecting data region information at any time and any place; and a power system used for powering andstoring the fundus camera. The camera realizes the purpose of rapid and accurate screening, effectively reduces stray light and ghosting, and provides high-quality fundus images.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "本发明公开了一种基于AI人工智能平台的便携式免散瞳眼底相机，包括：主成像光路系统，用以将辅助照明光源的光线传播至眼底组织，并且收集眼底组织的反射光线；辅助照明光路系统，用以为主成像光路系统提供照明；引导固视光路系统，用以在主成像光路系统中形成固视灯引导图；感光元件，用以将主成像光路系统收集到的眼底反射光信号转换为影像信息；AI人工智能硬件处理平台，用以图像数据处理、智能检测、诊断；移动通信系统，用以进行任意时间、任意地点的高速数据传输及采集数据的地域信息自动定位；电源系统，用以给眼底相机供电及蓄电。本发明实现了快速、准确筛查的目的，有效降低杂散光、鬼影，以提供高质量的眼底图像。",
+              "lang": "zh",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en", "zh"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          "The invention discloses a portable non-mydriatic <span class=\"highlight\">fundus</span> camera based on an <span class=\"highlight\">AI</span> artificial",
+          " <span class=\"highlight\">imaging</span> optical path system; a photosensitive element for converting a <span class=\"highlight\">fundus</span> reflected light",
+          " signalcollected by the main <span class=\"highlight\">imaging</span> optical path system into <span class=\"highlight\">image</span> information; an <span class=\"highlight\">AI</span> artificial"
+        ],
+        "title.en.text": [
+          "Portable non-mydriatic <span class=\"highlight\">fundus</span> camera based on <span class=\"highlight\">AI</span> artificial intelligence platform"
+        ]
+      }
+    },
+    {
+      "displayKey": "CN 209996298 U",
+      "document": {
+        "record_lens_id": "140-744-062-512-158",
+        "lens_id": ["140-744-062-512-158"],
+        "doc_key": "CN_209996298_U_20200131",
+        "lens_internal": {
+          "legacy_pub_key": "CN_209996298_U",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "CN",
+        "doc_number": "209996298",
+        "kind": "U",
+        "date_published": "2020-01-31",
+        "year_published": 2020,
+        "ids": [],
+        "publication_type": "LIMITED_PATENT",
+        "application_reference": {
+          "doc_number": "201920245269",
+          "date": "2019-02-27"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "201920245269",
+            "kind": "U",
+            "date": "2019-02-27"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2019-02-27",
+        "title": {
+          "en": [
+            {
+              "text": "Portable mydriasis-free fundus camera based on AI artificial intelligence platform",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "一种基于AI人工智能平台的便携式免散瞳眼底相机",
+              "lang": "zh",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en", "zh"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "CLAIRVOYANT SUZHOU INTELLIGENT TECH CO LTD",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "NIU HAITAO",
+            "sequence": 1
+          },
+          {
+            "name": "LIU ZHIFENG",
+            "sequence": 2
+          }
+        ],
+        "inventor_count": 2,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2020-06-19",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/14",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-06-19",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B3/12",
+        "class_ipcr.later_symbol": ["A61B3/14"],
+        "class_ipcr.inv_symbol": ["A61B3/12", "A61B3/14"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [],
+        "class_cpc_cset": [],
+        "class_cpc.later_symbol": [],
+        "class_cpc.inv_symbol": [],
+        "class_cpc.add_symbol": [],
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 0,
+          "patent": []
+        },
+        "cited_by_patent": false,
+        "family": {
+          "simple": {
+            "size": 1,
+            "id": 37754507,
+            "member": [
+              {
+                "lens_id": "140-744-062-512-158",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "209996298",
+                  "kind": "U",
+                  "date": "2020-01-31"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 1,
+            "id": 37754507,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "utility model",
+          "granted": true,
+          "earliest_filing_date": "2019-02-27",
+          "grant_date": "2020-01-31",
+          "anticipated_term_date": "2029-02-27",
+          "has_disclaimer": false,
+          "patent_status": "ACTIVE",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": true,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "The utility model discloses a portable mydriasis-free fundus camera based on an AI artificial intelligence platform, and the camera comprises a main imaging optical path system which is used for transmitting the light of an auxiliary illumination light source to fundus tissue, and collecting the reflected light of the fundus tissue; the auxiliary illumination light path system is used for providing illumination for the main imaging light path system; the guide fixation optical path system is used for forming a fixation lamp guide graph in the main imaging optical path system; the photosensitive element is used for converting the fundus reflection light signals collected by the main imaging light path system into image information; the AI artificial intelligence hardware processing platformis used for image data processing, intelligent detection and diagnosis; the mobile communication system is used for carrying out high-speed data transmission at any time and any place and automatically positioning regional information of acquired data; and the power supply system is used for supplying power to the fundus camera and storing power. According to the utility model, the purpose of rapid and accurate screening is realized, stray light and ghosting are effectively reduced, and a high-quality fundus image is provided.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "本实用新型公开了一种基于AI人工智能平台的便携式免散瞳眼底相机，包括：主成像光路系统，用以将辅助照明光源的光线传播至眼底组织，并且收集眼底组织的反射光线；辅助照明光路系统，用以为主成像光路系统提供照明；引导固视光路系统，用以在主成像光路系统中形成固视灯引导图；感光元件，用以将主成像光路系统收集到的眼底反射光信号转换为影像信息；AI人工智能硬件处理平台，用以图像数据处理、智能检测、诊断；移动通信系统，用以进行任意时间、任意地点的高速数据传输及采集数据的地域信息自动定位；电源系统，用以给眼底相机供电及蓄电。本实用新型实现了快速、准确筛查的目的，有效降低杂散光、鬼影，以提供高质量的眼底图像。",
+              "lang": "zh",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en", "zh"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          "The utility model discloses a portable mydriasis-free <span class=\"highlight\">fundus</span> camera based on an <span class=\"highlight\">AI</span> artificial",
+          "; the photosensitive element is used for converting the <span class=\"highlight\">fundus</span> reflection light signals collected by the main <span class=\"highlight\">imaging</span>",
+          " of rapid and accurate <span class=\"highlight\">screening</span> is realized, stray light and ghosting are effectively reduced, and a high-quality <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> is provided."
+        ],
+        "title.en.text": [
+          "Portable mydriasis-free <span class=\"highlight\">fundus</span> camera based on <span class=\"highlight\">AI</span> artificial intelligence platform"
+        ]
+      }
+    },
+    {
+      "displayKey": "CN 215534276 U",
+      "document": {
+        "record_lens_id": "174-842-206-381-373",
+        "lens_id": ["174-842-206-381-373"],
+        "doc_key": "CN_215534276_U_20220118",
+        "lens_internal": {
+          "legacy_pub_key": "CN_215534276_U",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "CN",
+        "doc_number": "215534276",
+        "kind": "U",
+        "date_published": "2022-01-18",
+        "year_published": 2022,
+        "ids": [],
+        "publication_type": "LIMITED_PATENT",
+        "application_reference": {
+          "doc_number": "202121469649",
+          "date": "2021-06-30"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "202121469649",
+            "kind": "U",
+            "date": "2021-06-30"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2021-06-30",
+        "title": {
+          "en": [
+            {
+              "text": "AI-based visual impairment degree evaluation system for cataract patient",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "基于AI的白内障患者视力损害程度评估系统",
+              "lang": "zh",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en", "zh"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "EYE HOSPITAL WMU",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "CHEN WEI",
+            "sequence": 1
+          },
+          {
+            "name": "XIE HE",
+            "sequence": 2
+          },
+          {
+            "name": "ZHENG QINXIANG",
+            "sequence": 3
+          }
+        ],
+        "inventor_count": 3,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "A61B3/12",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2022-01-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/14",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-18",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          }
+        ],
+        "class_ipcr.first_symbol": "A61B3/12",
+        "class_ipcr.later_symbol": ["A61B3/14"],
+        "class_ipcr.inv_symbol": ["A61B3/12", "A61B3/14"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [],
+        "class_cpc_cset": [],
+        "class_cpc.later_symbol": [],
+        "class_cpc.inv_symbol": [],
+        "class_cpc.add_symbol": [],
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 0,
+          "patent": []
+        },
+        "cited_by_patent": false,
+        "family": {
+          "simple": {
+            "size": 1,
+            "id": 163454437,
+            "member": [
+              {
+                "lens_id": "174-842-206-381-373",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "215534276",
+                  "kind": "U",
+                  "date": "2022-01-18"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 1,
+            "id": 163454437,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "utility model",
+          "granted": true,
+          "earliest_filing_date": "2021-06-30",
+          "grant_date": "2022-01-18",
+          "anticipated_term_date": "2031-06-30",
+          "has_disclaimer": false,
+          "patent_status": "ACTIVE",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": true,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "The utility model provides a cataract patient visual impairment degree evaluation system based on AI. The cataract patient visual impairment degree evaluation system comprises an information acquisition module, a fundus image acquisition module, an image identification module, an image classification module, an illness state evaluation module and a diagnosis and treatment suggestion module. Whether a patient suffers from cataract or not is automatically screened according to the fuzzy degree information in the mydriasis-free fundus image, then the visual impairment degree of the fundus image marked with cataract is interpreted and graded, diagnosis and treatment suggestions are given in a targeted mode for patients with different degrees of visual impairment caused by cataract, and the diagnosis and treatment efficiency is improved. According to the utility model, the relationship between the severity of cataract and the degree of visual impairment can be intuitively reflected, the accuracy of an evaluation result can be improved, and meanwhile, the process of screening cataract by fundus photography has the advantages of simplicity and rapidness.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "本实用新型提供了基于AI的白内障患者视力损害程度评估系统，信息采集模块、眼底图像采集模块、图像标识模块、图像分类模块、病情评估模块、诊治建议模块；根据免散瞳眼底图像中的模糊程度信息自动筛查患者是否患有白内障，然后对标识“有白内障”的眼底图像的视力损害程度进行判读并完成分级，对因白内障造成的不同程度的视力损害患者，有针对性的给出诊疗建议，本实用新型能直观的体现白内障的严重程度与视力损害程度的联系，可提高评估结果的准确性，同时，本申请以眼底照相筛查白内障的流程具有简单、快速的优点。",
+              "lang": "zh",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en", "zh"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          " on <span class=\"highlight\">AI</span>. The cataract patient visual impairment degree evaluation system comprises an information",
+          " acquisition module, a <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> acquisition module, an <span class=\"highlight\">image</span> identification module, an <span class=\"highlight\">image</span>",
+          " information in the mydriasis-free <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span>, then the visual impairment degree of the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span>"
+        ],
+        "title.en.text": [
+          "<span class=\"highlight\">AI</span>-based visual impairment degree evaluation system for cataract patient"
+        ]
+      }
+    },
+    {
+      "displayKey": "CN 113470815 A",
+      "document": {
+        "record_lens_id": "158-567-195-579-857",
+        "lens_id": ["158-567-195-579-857"],
+        "doc_key": "CN_113470815_A_20211001",
+        "lens_internal": {
+          "legacy_pub_key": "CN_113470815_A",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "CN",
+        "doc_number": "113470815",
+        "kind": "A",
+        "date_published": "2021-10-01",
+        "year_published": 2021,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "202110734838",
+          "date": "2021-06-30"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "202110734838",
+            "kind": "A",
+            "date": "2021-06-30"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2021-06-30",
+        "title": {
+          "en": [
+            {
+              "text": "cataract patient visual impairment degree evaluation system based on AI technology",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "基于AI技术的白内障患者视力损害程度评估系统",
+              "lang": "zh",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en", "zh"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "EYE HOSPITAL WMU",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "CHEN WEI",
+            "sequence": 1
+          },
+          {
+            "name": "XIE HE",
+            "sequence": 2
+          },
+          {
+            "name": "ZHENG QINXIANG",
+            "sequence": 3
+          }
+        ],
+        "inventor_count": 3,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2021-10-01",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B3/117",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-10-01",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G06N3/04",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-10-01",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G06N3/08",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-10-01",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          },
+          {
+            "symbol": "G16H50/30",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-10-01",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 5
+          }
+        ],
+        "class_ipcr.first_symbol": "G16H50/20",
+        "class_ipcr.later_symbol": ["A61B3/117", "G06N3/04", "G06N3/08", "G16H50/30"],
+        "class_ipcr.inv_symbol": ["G16H50/20", "A61B3/117", "G06N3/04", "G06N3/08", "G16H50/30"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [
+          {
+            "symbol": "G16H50/20",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2021-09-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "G16H50/30",
+            "version_indicator": "2018-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-09-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "A61B3/1176",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-09-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G06N3/08",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2021-09-07",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          },
+          {
+            "symbol": "G06N3/045",
+            "version_indicator": "2023-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 5
+          }
+        ],
+        "class_cpc_cset": [],
+        "class_cpc.first_symbol": "G16H50/20",
+        "class_cpc.later_symbol": ["G16H50/30", "A61B3/1176", "G06N3/08", "G06N3/045"],
+        "class_cpc.inv_symbol": ["G16H50/20", "G16H50/30", "A61B3/1176", "G06N3/08", "G06N3/045"],
+        "class_cpc.add_symbol": [],
+        "class_cpc.source": "DOCDB",
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [],
+        "reference_cited.patent_count": 0,
+        "cites_patent": false,
+        "reference_cited.npl_count": 0,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": false,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 1,
+          "patent": [
+            {
+              "lens_id": "172-537-111-005-101"
+            }
+          ]
+        },
+        "cited_by_patent": true,
+        "family": {
+          "simple": {
+            "size": 1,
+            "id": 28063500,
+            "member": [
+              {
+                "lens_id": "158-567-195-579-857",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "113470815",
+                  "kind": "A",
+                  "date": "2021-10-01"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 1,
+            "id": 28063500,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2021-06-30",
+          "has_disclaimer": false,
+          "patent_status": "PENDING",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "The invention provides a cataract patient visual impairment degree evaluation system based on an AI technology. The cataract patient visual impairment degree evaluation system comprises an information acquisition module, a fundus image acquisition module, an image identification module, an image classification module, a disease condition evaluation module and a diagnosis and treatment suggestion module. Whether a patient suffers from cataract or not is automatically screened according to the fuzzy degree information in the mydriasis-free fundus image, and then the visual impairment degree of the fundus image marked with cataract is interpreted and graded, so that diagnosis and treatment suggestions are given in a targeted mode for patients with different degrees of visual impairment caused by cataract. According to the method, the relation between the severity of the cataract and the degree of visual impairment can be visually reflected, the accuracy of the evaluation result can be improved, and meanwhile, the process of screening the cataract through fundus photography has the advantages of being simple and rapid.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "本发明提供了基于AI技术的白内障患者视力损害程度评估系统，信息采集模块、眼底图像采集模块、图像标识模块、图像分类模块、病情评估模块、诊治建议模块；根据免散瞳眼底图像中的模糊程度信息自动筛查患者是否患有白内障，然后对标识“有白内障”的眼底图像的视力损害程度进行判读并完成分级，对因白内障造成的不同程度的视力损害患者，有针对性的给出诊疗建议，本发明能直观的体现白内障的严重程度与视力损害程度的联系，可提高评估结果的准确性，同时，本申请以眼底照相筛查白内障的流程具有简单、快速的优点。",
+              "lang": "zh",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en", "zh"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          " an information acquisition module, a <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> acquisition module, an <span class=\"highlight\">image</span> identification module, an <span class=\"highlight\">image</span>",
+          " to the fuzzy degree information in the mydriasis-free <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span>, and then the visual impairment degree",
+          " of the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> marked with cataract is interpreted and graded, so that diagnosis and treatment"
+        ],
+        "title.en.text": [
+          "cataract patient visual impairment degree evaluation system based on <span class=\"highlight\">AI</span> technology"
+        ]
+      }
+    },
+    {
+      "displayKey": "CN 110309778 A",
+      "document": {
+        "record_lens_id": "158-612-680-821-520",
+        "lens_id": ["158-612-680-821-520"],
+        "doc_key": "CN_110309778_A_20191008",
+        "lens_internal": {
+          "legacy_pub_key": "CN_110309778_A",
+          "has_doc_lang": false,
+          "has_biblio_lang": false,
+          "has_all_title_lang": false,
+          "has_all_abstract_lang": false,
+          "has_all_claims_lang": false,
+          "has_description_lang": false
+        },
+        "jurisdiction": "CN",
+        "doc_number": "110309778",
+        "kind": "A",
+        "date_published": "2019-10-08",
+        "year_published": 2019,
+        "ids": [],
+        "publication_type": "PATENT_APPLICATION",
+        "application_reference": {
+          "doc_number": "201910584391",
+          "date": "2019-07-01"
+        },
+        "priority_claim": [
+          {
+            "jurisdiction": "CN",
+            "doc_number": "201910584391",
+            "kind": "A",
+            "date": "2019-07-01"
+          }
+        ],
+        "priority_claim.source": "DOCDB",
+        "earliest_priority_claim_date": "2019-07-01",
+        "title": {
+          "en": [
+            {
+              "text": "Fundus image identity recognition method",
+              "lang": "en",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "眼底图身份识别方法",
+              "lang": "zh",
+              "source": "DOCDB",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "title_lang": ["en", "zh"],
+        "has_title": true,
+        "applicant": [
+          {
+            "name": "JIANGSU ESHINE INFORMATION TECH CO LTD",
+            "sequence": 1,
+            "app_type": "applicant"
+          }
+        ],
+        "applicant_count": 1,
+        "has_applicant": true,
+        "inventor": [
+          {
+            "name": "WEN YAOFENG",
+            "sequence": 1
+          },
+          {
+            "name": "BAO YONG",
+            "sequence": 2
+          }
+        ],
+        "inventor_count": 2,
+        "has_inventor": true,
+        "agent": [],
+        "agent_count": 0,
+        "has_agent": false,
+        "owner": [],
+        "owner_count": 0,
+        "owner_all": [],
+        "owner_all_count": 0,
+        "has_owner": false,
+        "has_examiner": false,
+        "class_ipcr": [
+          {
+            "symbol": "G06K9/00",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "F",
+            "class_value": "I",
+            "action_date": "2020-01-23",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "A61B5/117",
+            "version_indicator": "2016-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-01-23",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G06K9/62",
+            "version_indicator": "2006-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2020-01-23",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          }
+        ],
+        "class_ipcr.first_symbol": "G06K9/00",
+        "class_ipcr.later_symbol": ["A61B5/117", "G06K9/62"],
+        "class_ipcr.inv_symbol": ["G06K9/00", "A61B5/117", "G06K9/62"],
+        "class_ipcr.add_symbol": [],
+        "class_ipcr.source": "DOCDB",
+        "class_cpc": [
+          {
+            "symbol": "A61B5/117",
+            "version_indicator": "2013-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2019-09-02",
+            "class_status": "B",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 1
+          },
+          {
+            "symbol": "G06V40/197",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 2
+          },
+          {
+            "symbol": "G06V40/19",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 3
+          },
+          {
+            "symbol": "G06V10/95",
+            "version_indicator": "2022-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2022-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 4
+          },
+          {
+            "symbol": "G06F18/241",
+            "version_indicator": "2023-01-01",
+            "class_symbol_position": "L",
+            "class_value": "I",
+            "action_date": "2023-01-01",
+            "class_status": "R",
+            "class_data_source": "H",
+            "generating_office": "CN",
+            "sequence": 5
+          }
+        ],
+        "class_cpc_cset": [],
+        "class_cpc.later_symbol": ["A61B5/117", "G06V40/197", "G06V40/19", "G06V10/95", "G06F18/241"],
+        "class_cpc.inv_symbol": ["A61B5/117", "G06V40/197", "G06V40/19", "G06V10/95", "G06F18/241"],
+        "class_cpc.add_symbol": [],
+        "class_cpc.source": "DOCDB",
+        "class_national": [],
+        "class_national.later_symbol": [],
+        "reference_cited": [
+          {
+            "patent": {
+              "lens_id": "178-845-952-076-88X",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "138-297-012-212-268",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "077-617-943-881-565",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          },
+          {
+            "patent": {
+              "lens_id": "160-825-338-306-073",
+              "category": [],
+              "us_category": [],
+              "rel_claims": []
+            }
+          }
+        ],
+        "reference_cited.patent_count": 4,
+        "cites_patent": true,
+        "reference_cited.npl_count": 1,
+        "reference_cited.npl_resolved_count": 0,
+        "cites_npl": true,
+        "cites_resolved_npl": false,
+        "cited_by": {
+          "patent_count": 0,
+          "patent": []
+        },
+        "cited_by_patent": false,
+        "family": {
+          "simple": {
+            "size": 1,
+            "id": 24758892,
+            "member": [
+              {
+                "lens_id": "158-612-680-821-520",
+                "document_id": {
+                  "jurisdiction": "CN",
+                  "doc_number": "110309778",
+                  "kind": "A",
+                  "date": "2019-10-08"
+                }
+              }
+            ]
+          },
+          "extended": {
+            "size": 1,
+            "id": 24758892,
+            "member": []
+          }
+        },
+        "has_sequence": false,
+        "legal_status": {
+          "ipr_type": "patent for invention",
+          "granted": false,
+          "earliest_filing_date": "2019-07-01",
+          "application_expiry_date": "2024-02-13",
+          "has_disclaimer": false,
+          "patent_status": "DISCONTINUED",
+          "publication_count": 1,
+          "has_spc": false,
+          "has_grant_event": false,
+          "has_entry_into_national_phase": false
+        },
+        "abstract": {
+          "en": [
+            {
+              "text": "The invention provides a fundus image identity recognition method. The fundus image identity recognition method comprises the following steps of shooting a plurality of fundus images for each patientand storing the images in a database; detecting an area including an optic disc and an optic cup in the fundus image, and cutting out the area including the optic disc and the optic cup from the fundus image to obtain an initial sample image; carrying out gamma correction on the initial sample picture to improve the brightness, then converting the corrected picture into a lab color model from an RGB color model, and carrying out self-adaptive histogram equalization processing on a brightness channel to obtain a training sample picture. In order to ensure the consistency of the multiple follow-up visit data, the fundus image identity recognition method focuses on the follow-up visit data of the ophthalmoscope, and an ophthalmoscope identity recognition system based on AI deep learning is utilized to achieve a certain quality control effect on the ophthalmoscope screening projects in the communities and the remote areas.",
+              "lang": "en",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ],
+          "zh": [
+            {
+              "text": "本发明提供了一种眼底图身份识别方法，包括以下步骤：为每个患者拍摄多张眼底图片并存入数据库；检测所述眼底图片中包含视盘和视杯的区域，将包含视盘和视杯的区域从眼底图片中切割出来，得到初始样本图片；对于所述初始样本图片进行Gamma校正提高亮度，然后将校正后的图片从RGB色彩模型转换到lab色彩模型，并对亮度通道进行自适应直方图均衡化处理，得到训练样本图片；这种眼底图身份识别方法为了保证多次随访数据的一致性，着眼于眼底镜的随访数据，利用基于AI深度学习的眼底镜身份识别系统，对社区及边远地区的眼底镜筛查项目实施起到一定的质量控制作用。",
+              "lang": "zh",
+              "source": "DOCDB_NATIONAL_OFFICE",
+              "data_format": "DOCDBA"
+            }
+          ]
+        },
+        "abstract_lang": ["en", "zh"],
+        "has_abstract": true,
+        "claim": {},
+        "has_claim": false,
+        "description": {},
+        "description_lang": [],
+        "has_description": false,
+        "has_docdb": true,
+        "has_inpadoc": false,
+        "has_full_text": false
+      },
+      "metadataStat": {
+        "collectionsCount": 0,
+        "publicCollectionsCount": 0,
+        "privateCollectionsCount": 0,
+        "notesCount": 0,
+        "tagsCount": 0,
+        "contributorsCount": 0,
+        "privateNotesCount": 0,
+        "landscapeCollectionsCount": 0,
+        "landscapeNotesCount": 0,
+        "tags": []
+      },
+      "highlight": {
+        "abstract.en.text": [
+          "The invention provides a <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> identity recognition method. The <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span> identity",
+          " recognition method comprises the following steps of shooting a plurality of <span class=\"highlight\">fundus</span> <span class=\"highlight\">images</span> for each",
+          " in the <span class=\"highlight\">fundus</span> <span class=\"highlight\">image</span>, and cutting out the area including the optic disc and the optic cup from"
+        ],
+        "title.en.text": [
+          "<span class=\"highlight\">Fundus</span> <span class=\"highlight\">image</span> identity recognition method"
+        ]
+      }
+    }
+  ],
+  "joinStats": {
+    "joinLimitExceeded": false
+  },
+  "warnings": []
+}

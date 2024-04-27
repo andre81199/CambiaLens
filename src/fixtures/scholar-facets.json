@@ -1,0 +1,664 @@
+{
+  "queryId": "0521bf1b-c5bb-455b-82a8-77f15ed76891",
+  "totalHits": 1116,
+  "totalRelation": "EQUAL_TO",
+  "hits": [],
+  "aggregations": {
+    "author.display_name.exact": {
+      "doc_count_error_upper_bound": 24,
+      "sum_other_doc_count": 15115,
+      "buckets": [
+        {
+          "key": "Andrzej Grzybowski",
+          "doc_count": 6
+        },
+        {
+          "key": "Tien Yin Wong",
+          "doc_count": 6
+        },
+        {
+          "key": "Xirong Li",
+          "doc_count": 6
+        },
+        {
+          "key": "Youxin Chen",
+          "doc_count": 6
+        },
+        {
+          "key": "Kai Jin",
+          "doc_count": 5
+        },
+        {
+          "key": "Alexandre Le Guilcher",
+          "doc_count": 4
+        },
+        {
+          "key": "Anneke I den Hollander",
+          "doc_count": 4
+        },
+        {
+          "key": "Béatrice Cochener",
+          "doc_count": 4
+        },
+        {
+          "key": "Dayong Ding",
+          "doc_count": 4
+        },
+        {
+          "key": "Juan Ye",
+          "doc_count": 4
+        }
+      ]
+    },
+    "dates": {
+      "buckets": [
+        {
+          "key_as_string": "1966",
+          "key": -126230400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1973",
+          "key": 94694400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1975",
+          "key": 157766400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1976",
+          "key": 189302400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1979",
+          "key": 283996800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1981",
+          "key": 347155200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1982",
+          "key": 378691200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1983",
+          "key": 410227200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1984",
+          "key": 441763200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1985",
+          "key": 473385600000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1986",
+          "key": 504921600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1987",
+          "key": 536457600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1988",
+          "key": 567993600000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "1989",
+          "key": 599616000000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "1995",
+          "key": 788918400000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 17
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 21
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 20
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 22
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 18
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 32
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 73
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 73
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 104
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 152
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 190
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 73
+        }
+      ]
+    },
+    "author.display_name_orcid": {
+      "doc_count_error_upper_bound": 21,
+      "sum_other_doc_count": 1141,
+      "buckets": [
+        {
+          "key": "Kai Jin~orcid:0000-0003-4369-2417",
+          "doc_count": 6
+        },
+        {
+          "key": "Pearse A Keane~orcid:0000-0002-9239-745x",
+          "doc_count": 5
+        },
+        {
+          "key": "Andrzej Grzybowski~orcid:0000-0002-3724-2391",
+          "doc_count": 4
+        },
+        {
+          "key": "Daniel S W Ting~orcid:0000-0003-2264-7174",
+          "doc_count": 4
+        },
+        {
+          "key": "Youxin Chen~orcid:0000-0002-7231-5058",
+          "doc_count": 4
+        },
+        {
+          "key": "Yun Liu~orcid:0000-0003-4079-8275",
+          "doc_count": 4
+        },
+        {
+          "key": "Changzheng Chen~orcid:0000-0002-7281-552x",
+          "doc_count": 3
+        },
+        {
+          "key": "Ching-Yu Cheng~orcid:0000-0003-0655-885x",
+          "doc_count": 3
+        },
+        {
+          "key": "Damon Wing Kee Wong~orcid:0000-0003-4601-9121",
+          "doc_count": 3
+        },
+        {
+          "key": "Edward Korot~orcid:0000-0002-5687-1564",
+          "doc_count": 3
+        }
+      ]
+    },
+    "author.affiliation.address.country_code": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CN",
+          "doc_count": 149
+        },
+        {
+          "key": "US",
+          "doc_count": 134
+        },
+        {
+          "key": "GB",
+          "doc_count": 65
+        },
+        {
+          "key": "IN",
+          "doc_count": 54
+        },
+        {
+          "key": "AU",
+          "doc_count": 41
+        },
+        {
+          "key": "JP",
+          "doc_count": 33
+        },
+        {
+          "key": "SG",
+          "doc_count": 31
+        },
+        {
+          "key": "KR",
+          "doc_count": 18
+        },
+        {
+          "key": "DE",
+          "doc_count": 17
+        },
+        {
+          "key": "IT",
+          "doc_count": 17
+        },
+        {
+          "key": "CA",
+          "doc_count": 14
+        },
+        {
+          "key": "NL",
+          "doc_count": 13
+        },
+        {
+          "key": "BE",
+          "doc_count": 10
+        },
+        {
+          "key": "BR",
+          "doc_count": 10
+        },
+        {
+          "key": "FR",
+          "doc_count": 9
+        },
+        {
+          "key": "SA",
+          "doc_count": 9
+        },
+        {
+          "key": "CH",
+          "doc_count": 7
+        },
+        {
+          "key": "PK",
+          "doc_count": 7
+        },
+        {
+          "key": "SE",
+          "doc_count": 7
+        },
+        {
+          "key": "IE",
+          "doc_count": 6
+        },
+        {
+          "key": "NZ",
+          "doc_count": 6
+        },
+        {
+          "key": "AT",
+          "doc_count": 5
+        },
+        {
+          "key": "ES",
+          "doc_count": 5
+        },
+        {
+          "key": "MX",
+          "doc_count": 5
+        },
+        {
+          "key": "MY",
+          "doc_count": 5
+        },
+        {
+          "key": "DK",
+          "doc_count": 4
+        },
+        {
+          "key": "HK",
+          "doc_count": 4
+        },
+        {
+          "key": "IL",
+          "doc_count": 4
+        },
+        {
+          "key": "PL",
+          "doc_count": 4
+        },
+        {
+          "key": "TH",
+          "doc_count": 4
+        },
+        {
+          "key": "TW",
+          "doc_count": 4
+        },
+        {
+          "key": "EG",
+          "doc_count": 3
+        },
+        {
+          "key": "FI",
+          "doc_count": 3
+        },
+        {
+          "key": "MA",
+          "doc_count": 3
+        },
+        {
+          "key": "TR",
+          "doc_count": 3
+        },
+        {
+          "key": "ZM",
+          "doc_count": 3
+        },
+        {
+          "key": "AE",
+          "doc_count": 2
+        },
+        {
+          "key": "BD",
+          "doc_count": 2
+        },
+        {
+          "key": "CL",
+          "doc_count": 2
+        },
+        {
+          "key": "CY",
+          "doc_count": 2
+        },
+        {
+          "key": "HU",
+          "doc_count": 2
+        },
+        {
+          "key": "IR",
+          "doc_count": 2
+        },
+        {
+          "key": "LK",
+          "doc_count": 2
+        },
+        {
+          "key": "MT",
+          "doc_count": 2
+        },
+        {
+          "key": "PE",
+          "doc_count": 2
+        },
+        {
+          "key": "PT",
+          "doc_count": 2
+        },
+        {
+          "key": "RU",
+          "doc_count": 2
+        },
+        {
+          "key": "VN",
+          "doc_count": 2
+        },
+        {
+          "key": "ZA",
+          "doc_count": 2
+        },
+        {
+          "key": "CZ",
+          "doc_count": 1
+        },
+        {
+          "key": "EE",
+          "doc_count": 1
+        },
+        {
+          "key": "ET",
+          "doc_count": 1
+        },
+        {
+          "key": "GE",
+          "doc_count": 1
+        },
+        {
+          "key": "GR",
+          "doc_count": 1
+        },
+        {
+          "key": "HR",
+          "doc_count": 1
+        },
+        {
+          "key": "IQ",
+          "doc_count": 1
+        },
+        {
+          "key": "IS",
+          "doc_count": 1
+        },
+        {
+          "key": "KW",
+          "doc_count": 1
+        },
+        {
+          "key": "MO",
+          "doc_count": 1
+        },
+        {
+          "key": "NO",
+          "doc_count": 1
+        },
+        {
+          "key": "RO",
+          "doc_count": 1
+        },
+        {
+          "key": "SI",
+          "doc_count": 1
+        },
+        {
+          "key": "SK",
+          "doc_count": 1
+        },
+        {
+          "key": "TN",
+          "doc_count": 1
+        },
+        {
+          "key": "UA",
+          "doc_count": 1
+        }
+      ]
+    },
+    "author.affiliation.name.exact": {
+      "doc_count_error_upper_bound": 24,
+      "sum_other_doc_count": 3654,
+      "buckets": [
+        {
+          "key": "Sun Yat-sen University",
+          "doc_count": 19
+        },
+        {
+          "key": "Capital Medical University",
+          "doc_count": 16
+        },
+        {
+          "key": "Harvard University",
+          "doc_count": 15
+        },
+        {
+          "key": "University College London",
+          "doc_count": 12
+        },
+        {
+          "key": "National University of Singapore",
+          "doc_count": 11
+        },
+        {
+          "key": "Peking Union Medical College",
+          "doc_count": 11
+        },
+        {
+          "key": "The Chinese University of Hong Kong",
+          "doc_count": 11
+        },
+        {
+          "key": "Chinese Academy of Sciences",
+          "doc_count": 8
+        },
+        {
+          "key": "Zhejiang University",
+          "doc_count": 8
+        },
+        {
+          "key": "Moorfields Eye Hospital",
+          "doc_count": 7
+        }
+      ]
+    }
+  },
+  "joinStats": {
+    "joinLimitExceeded": false
+  }
+}
