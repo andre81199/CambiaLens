@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Button } from './ui/Button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from './ui/DropdownMenu'
-import { BarChart4, Ellipsis } from 'lucide-react'
+import { BarChart4, Ellipsis, X } from 'lucide-react'
 import { TermsAggregation } from '../models/TermsAggregation'
 
 export interface FacetFilterGroupProps {
@@ -15,6 +15,8 @@ export function FacetFilter({ aggregation }: { aggregation: TermsAggregation }) 
   const [searchQuery, setSearchQuery] = useState<string>('')
   const [refineClicked, setRefineClicked] = useState<boolean>(false)
   const [checkedItems, setCheckedItems] = useState<{ [key: string]: boolean }>({})
+
+  const [modalOpen, setModalOpen] = useState(false)
 
   // Event handler for refine click
   const handleRefineClick = () => {
@@ -32,9 +34,14 @@ export function FacetFilter({ aggregation }: { aggregation: TermsAggregation }) 
     setCheckedItems({ ...checkedItems, [key]: !checkedItems[key] })
   }
 
-  // Place holder function for handlingd load more action
+  // Event handler for load more button
   const handleLoadMore = () => {
-    console.log('Load more clicked')
+    setModalOpen(true)
+  }
+
+  // Event handler to close modal
+  const handleCloseModal = () => {
+    setModalOpen(false)
   }
 
   // Filterd buckets based on search
@@ -66,9 +73,22 @@ export function FacetFilter({ aggregation }: { aggregation: TermsAggregation }) 
       })}
 
       {/* Load more button */}
-      <span className="flex text-sm hover:text-teal-600" onClick={handleLoadMore}>
-        <Ellipsis className="pr-1"></Ellipsis> Load More
-      </span>
+      <div className="flex">
+        <span className="flex text-sm hover:text-teal-600" onClick={handleLoadMore}>
+          <Ellipsis className="h-[1.5rem] w-[1.5rem]" />
+          <span className="pr-1">Load More</span>
+        </span>
+        {modalOpen && (
+          <div className="fixed inset-0 z-10 overflow-y-auto h-[8rem] w-[25rem] ml-4 mt-3 bg-white rounded-lg shadow-xl transform transition-all">
+            <div className="flex justify-between align-middle bg-sky-950">
+              <h2 className="text-white flex self-center pl-2">Load more window</h2>
+              <Button size="icon" className="bg-sky-950 hover:bg-sky-950" onClick={handleCloseModal}>
+                <X className="h-[1.5rem] w-[1.5rem] text-red-600" />
+              </Button>
+            </div>
+          </div>
+        )}
+      </div>
 
       {/* Buttons for refine and clear */}
       <div className="flex justify-between align-middle py-2 w-full">
