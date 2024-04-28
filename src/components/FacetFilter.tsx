@@ -1,16 +1,17 @@
 import { Button } from './ui/Button'
 import { TermsAggregation } from '../models/TermsAggregation'
 import { useTranslation } from 'react-i18next'
-import { Input } from './ui/Input'
 import { Ellipsis } from 'lucide-react'
+import { useState } from 'react'
 
 export interface FacetFilterGroupProps {
   aggregation: TermsAggregation
   label: string
 }
 
-export function FacetFilter({ aggregation, label }: { aggregation: TermsAggregation; label: string }) {
+export function FacetFilter({ aggregation }: { aggregation: TermsAggregation }) {
   const { t } = useTranslation()
+  const [searchQuery, setSearchQuery] = useState<string>('')
 
   const handleLoadMore = () => {
     console.log('Load more clicked')
@@ -20,16 +21,20 @@ export function FacetFilter({ aggregation, label }: { aggregation: TermsAggregat
     console.log('Ellipsis clicked')
   }
 
+  const filteredBuckets = aggregation?.buckets?.filter((bucket) =>
+    bucket.key.toLowerCase().includes(searchQuery.toLowerCase())
+  )
+
   return (
     <div className={'p-2'}>
-      <Input
-        id="q"
-        name="q"
-        className="mb-1.5 py-2 border border-grey-2 w-full"
-        placeholder={`Search ${label}...`}
+      <input
+        className="mb-1.5 px-3 py-2 border border-grey-2 w-full placeholder:text-left "
+        placeholder={`Search...`}
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
         style={{ textAlign: 'left' }}
       />
-      {aggregation?.buckets?.map((bucket) => {
+      {filteredBuckets.map((bucket) => {
         return <FacetFilterItem bucket={bucket} />
       })}
       <span className="flex text-sm hover:text-teal-600" onClick={handleLoadMore}>
