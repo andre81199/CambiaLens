@@ -1,8 +1,9 @@
 import { Button } from './ui/Button'
 import { TermsAggregation } from '../models/TermsAggregation'
 import { useTranslation } from 'react-i18next'
-import { Ellipsis } from 'lucide-react'
+import { BarChart4, Ellipsis } from 'lucide-react'
 import { useState } from 'react'
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from './ui/DropdownMenu'
 
 export interface FacetFilterGroupProps {
   aggregation: TermsAggregation
@@ -12,13 +13,18 @@ export interface FacetFilterGroupProps {
 export function FacetFilter({ aggregation }: { aggregation: TermsAggregation }) {
   const { t } = useTranslation()
   const [searchQuery, setSearchQuery] = useState<string>('')
+  const [refineClicked, setRefineClicked] = useState<boolean>(false)
+
+  const handleRefineClick = () => {
+    setRefineClicked(true)
+  }
+
+  const handleClearClick = () => {
+    setRefineClicked(false)
+  }
 
   const handleLoadMore = () => {
     console.log('Load more clicked')
-  }
-
-  const handleEllipsis = () => {
-    console.log('Ellipsis clicked')
   }
 
   const filteredBuckets = aggregation?.buckets?.filter((bucket) =>
@@ -41,10 +47,31 @@ export function FacetFilter({ aggregation }: { aggregation: TermsAggregation }) 
         <Ellipsis className="pr-1"></Ellipsis> Load More
       </span>
       <div className="flex justify-between align-middle py-2 w-full">
-        <Button size="sm">{t('Refine')}</Button>
-        <button className="text-sky-600 justify-between" onClick={handleEllipsis}>
-          <Ellipsis className="h-[1.5rem] w-[1.5rem]" />
-        </button>
+        <div className="flex">
+          {refineClicked && (
+            <Button size="sm" variant={'destructive'} className="mr-2" onClick={handleClearClick}>
+              {t('Clear')}
+            </Button>
+          )}
+          <Button size="sm" onClick={handleRefineClick}>
+            {t('Refine')}
+          </Button>
+        </div>
+        <DropdownMenu>
+          <DropdownMenuTrigger asChild>
+            <Button variant="ghost" size="icon">
+              <Ellipsis className="h-[1.5rem] w-[1.5rem] text-sky-600" />
+            </Button>
+          </DropdownMenuTrigger>
+          <DropdownMenuContent align="end">
+            <DropdownMenuItem>
+              <span className="flex align-middle hover:text-sky-500">
+                <BarChart4 className="h-[1rem] w-[1rem] mr-2"></BarChart4>
+                {t('View Facet Analysis')}
+              </span>
+            </DropdownMenuItem>
+          </DropdownMenuContent>
+        </DropdownMenu>
       </div>
     </div>
   )
